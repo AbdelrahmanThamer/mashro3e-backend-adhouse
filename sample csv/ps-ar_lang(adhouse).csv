@@ -1,0 +1,1530 @@
+key,القيمة
+site_name,Ad House Admin Panel
+sidebar_label,Ad House Admin
+slogan,صحيفة هي أكبر كنز للشعب من ملايين لا تحصى من الذهب
+title_bar_seperator,|
+hello,مرحبا! أنا من ملف اللغة
+added_date,تاريخ
+upload_point_label,تحميل نقطة
+success_item_report,تمت إضافة الإبلاغ عن صنف بنجاح
+profile_img,صورة البروفيل
+signin,تسجيل الدخول
+check_for_detail,التحقق من وجود مزيد من التفاصيل!
+success_delete,تم الحذف بنجاح
+success_save_contact,شكرا لإتصالك بنا. سنصل إليك قريبا.
+success_contact_delete,تم حذف الاتصال الرسالة بنجاح
+btn_search,بحث
+btn_add_new,اضف جديد
+btn_edit,تعديل
+btn_save,حفظ
+btn_save_gallery,حفظ والعودة إلى معرض الصور
+btn_cancel,إلغاء
+btn_yes,نعم
+btn_delete,حذف
+btn_publish,ينشر
+btn_replace_photo,استبدال صور
+btn_replace_icon,استبدال أيقونة
+back_button,عودة
+lbl_view,رأي
+chat_history_save_success,تم إضافة التاريخ دردشة بنجاح
+chat_history_update_success,تم تحديث التاريخ دردشة بنجاح
+btn_version,الإصدار
+ver_info,معلومات الإصدار
+ver_no_label,نسخة لا
+ver_msg_label,نسخة رسالة
+ver_title_label,صفحة عنوان
+ver_force_update,تحديث قوة اصدار جديد؟
+ver_need_data,نسخة حاجة واضحة البيانات؟
+success_version_add,تمت إضافة نسخة بنجاح
+success_version_edit,تم تحديث النسخة بنجاح
+dashboard,لوحة القيادة
+no,لا
+del_cover_photo,حذف صورة الغلاف
+youtube_url,يوتيوب URL
+del_icon_label,أيقونة الحذف
+del_icon_confirm,هل أنت متأكد أنك تريد حذف رمز؟
+success_upload,تم تحميل الصورة بنجاح
+success_img_delete,تم حذف الصورة بنجاح
+error_login,البريد الإلكتروني وكلمة المرور لا يتطابقان
+err_access,عذرا، لا يوجد لديك الوصول إلى اتخاذ هذا الإجراء
+err_model,حدث خطأ في قاعدة البيانات
+err_sys,حدث خطأ في النظام
+err_upload,حدث خطأ تحميل
+wrn_no_data,لا توجد بيانات حتى الآن
+del_cover_photo_confirm,هل أنت متأكد أنك تريد حذف الصورة؟
+upload_photo,حمل الصورة
+no_record,لا مزيد من السجلات
+invalid_api_key,API مفتاح غير صالح
+invalid_user_id,هوية مستخدم غير صالحه
+invalid_item_id,رقم السلعة غير صالح
+role,وظيفة
+user_name,اسم المستخدم
+user_email,البريد الإلكتروني
+user_password,كلمه السر
+conf_password,تأكيد كلمة المرور
+user_phone,هاتف
+allowed_modules,وحدات سمح
+user_ban,المنع
+user_unban,رفع الحظر
+user_info,معلومات المستخدم
+user_list,قائمة المستخدمين
+user_add,إضافة مستخدم جديد
+user_edit,تحرير العضو
+user_search,البحث العضو
+err_dup_email,وتوجد بالفعل عنوان البريد الإلكتروني في النظام
+err_dup_name,وجدت الاسم بالفعل في النظام
+err_user_name_blank,يرجى تقديم اسم المستخدم
+err_user_name_len,يجب أن يكون طول اسم المستخدم أكبر من 4
+err_user_email_blank,يرجى تقديم عنوان البريد الإلكتروني
+err_user_email_invalid,يرجى تقديم عنوان بريد إلكتروني صالح
+err_user_email_exist,وتوجد بالفعل عنوان البريد الإلكتروني في النظام
+err_user_pass_blank,يرجى تقديم كلمة المرور
+err_user_pass_len,يجب أن يكون طول كلمة السر أكبر من 4
+err_user_pass_conf_blank,يرجى تقديم تأكيد كلمة المرور
+err_user_pass_conf_not_match,كلمة المرور وتأكيد كلمة المرور لا تتطابق
+err_permission_blank,الرجاء تحديد الوحدات التي هي قادرة على الوصول
+success_user_add,تمت إضافة المستخدم بنجاح
+success_user_edit,تم تحديث المستخدم بنجاح
+err_user_banned,عذرا، لا يمكنك الدخول لأنه يتم حظر حسابك.
+cat_info,معلومات الفئة
+cat_name,اسم التصنيف
+cat_ordering,فئة ترتيب
+cat_img,الفئة صورة الغلاف
+cat_icon,فئة أيقونة
+cat_search,البحث التصنيف
+cat_select,حدد اسم التصنيف
+cat_add,إضافة فئة
+cat_edit,تحرير الفئة
+success_cat_edit,تم تحديث فئة بنجاح
+success_cat_add,تمت إضافة فئة بنجاح
+success_cat_delete,لقد تم حذف الفئة بنجاح
+err_cat_name,يرجى تقديم اسم الفئة
+err_cat_len,يجب أن يكون طول اسم التصنيف أكبر من 4
+err_cat_exist,وتوجد بالفعل اسم التصنيف في النظام
+delete_cat_label,حذف الفئة؟
+cat_delete_confirm_message,هل تريد حذف جميع الخلفيات تحت هذه الفئة معا؟
+cat_yes_all_message,نعم جميع - الفئة وحدات وحذف من النظام.
+cat_no_only_message,الوحيد الفئة - سوف الوحيد الفئة حذف من النظام.
+cat_yes_all_label,نعم جميعا
+cat_no_only_label,الوحيد الفئة
+over_name,اسم يطل
+over_search,البحث يطل
+over_add,إضافة يطل
+over_info,معلومات يطل
+over_edit,تحرير يطل
+delete_over_label,حذف يطل؟
+over_delete_confirm_message,هل تريد حذف overlookings؟
+over_yes_all_message,نعم الكل - يطل سيتم حذف من النظام.
+success_over_edit,تم تحديث يطل بنجاح
+success_over_add,تمت إضافة يطل بنجاح
+success_over_delete,تم حذف يطل بنجاح
+err_over_name,يرجى تقديم اسم تطل
+err_over_len,يجب أن يكون طول اسم يطل أكبر من 4
+err_over_exist,وجدت يطل اسم بالفعل في النظام
+delete_contact_label,حذف الاتصال رسالة؟
+contact_delete_confirm_message,هل تريد حذف رسالة الاتصال؟
+detail_contact_label,الاتصال رسالة التفاصيل
+contact_info_label,معلومات الاتصال رسالة
+about_contact_label,معلومات الاتصال رسالة
+contact_info_label,معلومات الاتصال التفاصيل
+contact_name,اسم شخص الاتصال
+contact_email,شخص الاتصال البريد الإلكتروني
+contact_phone,شخص الاتصال الهاتف
+btn_reset,إعادة تعيين
+reset_password,إعادة تعيين كلمة المرور
+contact_receive_message,لقد تلقيت اتصال لنا رسالة جديدة.
+nav_profile,الذهاب إلى الملف الشخصي
+nav_backend,الذهاب إلى الخلفية
+nav_logout,تسجيل خروج
+total_label,مجموع :
+device_label,جهاز
+devices_label,الأجهزة
+registered_label,وقد تم تسجيل لإعلام دفع
+noti_info,إعلام دفع
+noti_message_label,رسالة
+noti_message_tooltips,يرجى تقديم بإرسال رسالة للإعلام الدفع.
+noti_send_btn,إرسال إشعار دفع
+sorry_no_device,عذرا، لا يوجد جهاز مسجل للإعلام دفع.
+select_cat,اختر الفئة
+success_noti_add,تمت إضافة إخطارا بنجاح
+success_noti_delete,لقد تم حذف إخطارا بنجاح
+delete_noti_label,إعلام الحذف؟
+noti_yes_message,سوف إعلام نعم-حذف من النظام.
+push_message,رسالة دفع
+noti_des_label,وصف
+noti_img,إخطار صور
+noti_search,البحث نوتي
+select_cat,اختر الفئة
+noti_add,إضافة نوتي
+app_info_lable,معلومات عن
+about_title_label,معلومات عن عنوان
+description_label,وشك الوصف
+about_email_label,معلومات البريد الإلكتروني
+about_phone_label,عن الهاتف
+about_website_label,عن رابط لموقع إلكتروني
+about_seo_section,معلومات SEO
+about_seo_title_label,SEO عنوان
+about_seo_desc_label,SEO الوصف
+about_seo_keywords_label,SEO كلمات
+about_social_section,معلومات الاجتماعي
+about_facebook_label,موقع التواصل الاجتماعي الفيسبوك
+about_gplus_label,في + Google
+about_instagram_label,إينستاجرام
+about_youtube_label,موقع YouTube
+about_pinterest_label,موقع Pinterest
+about_twitter_label,تويتر
+about_color_section,حول الموقع موضوع اللون
+about_theme,الموضوعات المتاحة
+success_about_edit,معلومات يتم تحديثها بنجاح
+about_ads_analyt,جوجل التحليلية و إعلانات إعداد
+about_ads_client,العميل الإعلانات
+about_ads_slot,إعلانات فتحة
+about_analyt_track_id,تحليلي المسار رقم
+about_ads_on,تمكين جوجل ادسنس
+about_analyt_on,تمكين جوجل تحليلية
+gdpr_label,GDPR المحتوى
+safety_tips_label,نصائح السلامة
+about_nav_icon,الإنتقال أيقونة
+about_fav_icon,الصوت العربي الحر أيقونة
+about_backend_icon,لالخلفية
+total_users_count_label,المستخدمون المسجلون
+total_cat_count_label,عدد الأقسام
+total_wallpaper_count_label,نشر خلفيات
+total_contact_label,إجمالي الاتصال رسالة
+total_likes_count_label,إجمالي عدد معجب
+total_favs_count_label,العدد الإجمالي المفضلة
+total_comments_count_label,عد مجموع التعليقات
+category_panel_title,التصنيفات الأخيرة
+recent_news_panel_title,أخبار حديثة
+available_inside,الأخبار المتاحة داخل هذه الفئة.
+contact_message,رسائل الاتصال
+recent_news_panel_title,أخبار حديثة
+user_latest_members,أحدث الأعضاء المسجلين والمفعلين
+success_contact,رسالتك حفظ بنجاح في النظام.
+file_na,غير متوفر
+required_platform,منصة المطلوبة
+err_noti_register,عذرا، هناك مشكلة للتسجيل اضغط إعلام
+success_noti_register,الجهاز بنجاح تسجيل للإعلام دفع.
+success_noti_unregister,الجهاز غير مسجلة بنجاح لإعلام دفع.
+err_noti_unregister,عذرا، هناك مشكلة لإلغاء التسجيل دفع الإخطار
+success_touch_count,تم إدخال عدد اللمس بنجاح.
+err_touch_count,عدد مشكلة في اللمس!
+err_user_register,عذرا، هناك مشكلة للتسجيل المستخدم.
+err_user_not_exist,عذرا، المستخدم غير موجودة في النظام.
+err_user_not_verify,عذرا، حسابك لم تحقق حتى الان.
+err_email_not_send,عذرا، هناك مشكلة في إرسال البريد الإلكتروني.
+err_user_update,نعتذر، ليس هناك مشكلة في معلومات المستخدم التحديث.
+err_user_password_update,نعتذر، ليس هناك مشكلة في كلمة المرور للمستخدم تحديث ل.
+success_profile_update,تحديث ملفك الشخصي بنجاح.
+success_email_sent,يتم إرسال البريد الإلكتروني بنجاح.
+success_reset,كلمة تم إعادة تعيين بنجاح
+success_reset_email_sent,يتم إرسال البريد الإلكتروني بنجاح إعادة تعيين
+trending,تتجه أخبار
+editor_pick,محرر التقطت الأخبار
+project_name,اسم المشروع النوع
+project_search,بحث نوع المشروع
+att_add,إضافة سمة جديدة
+add_att_detail,إضافة جديد السمة التفاصيل
+list_attribute_header,السمة قائمة رأس
+wrn_no_data,لا توجد بيانات حتى الآن
+project_add,إضافة نوع المشروع
+att_name,اسم السمة
+Prd_search_subcat,اختر اسم النوع
+Prd_search_dis,اختر نوع الخصم
+project_info,مشروع معلومات نوع
+project_edit,تحرير نوع المشروع
+delete_project_label,حذف نوع المشروع؟
+att_info,معلومات السمة
+project_delete_confirm_message,هل تريد حذف أنواع المشاريع؟
+project_yes_all_message,نعم جميع - مشروع النوع سيتم حذف من النظام.
+success_project_edit,تم تحديث المشاريع من النوع بنجاح
+success_project_add,تمت إضافة نوع المشروع بنجاح
+success_project_delete,تم حذف المشاريع من النوع بنجاح
+err_project_name,يرجى تقديم اسم نوع المشروع
+success_upload,تم تحديث الصورة بنجاح
+err_project_len,يجب أن يكون طول نوع المشروع اسم أكبر من 4
+err_project_exist,وجدت نوع المشروع اسم بالفعل في النظام
+item_description_label,وصف
+deal_option_id_label,صفقة الخيار
+meet_up_label,نلتقي
+mailing_or_delivery_label,بريدية أو تسليم
+brand_label,علامة تجارية
+price,السعر
+itm_title_label,عنوان
+itm_business_mode,هو محل؟
+itm_show_shop,(إذا كان يمكن أن تظهر للمستخدم من أجل أكثر من واحد)
+itm_is_sold_out,وبيعت؟
+location_info_label,معلومات الموقع
+itm_address_label,عنوان
+itm_lat_label,خط العرض
+itm_lng_label,خط الطول
+itm_select_price,حدد السعر نوع
+itm_select_currency,اختر سيارة العملات
+status_label,الحالة
+select_status_label,اختر الحالة
+find_location_label,اكتب والبحث عن موقع من API جوجل
+itm_select_deal_option,اختر صفقة الخيار
+itm_steering_position,الوظيفة التوجيهية
+itm_no_of_owner,لا من المالك
+itm_trim_name_label,اسم تريم
+itm_vehicle_id_label,رقم المركبة
+itm_mileage_label,عدد الأميال
+itm_select_fuel,تحديد أنواع الوقود
+itm_price_unit_label,سعر الوحدة
+itm_max_passengers_label,الركاب ماكس
+itm_no_of_doors_label,عدد الأبواب
+itm_select_build,حدد نوع البناء
+itm_select_seller_type,اختر نوع البائع
+itm_select_color,إختر لون
+itm_licence_status,هي حالة الترخيص؟
+plat_number_label,رقم لوحة
+engine_power_label,قوة المحرك
+year_label,عام
+itm_select_transmission,اختر اسم الإرسال
+price_type_label,السعر نوع
+license_expiration_date_label,رخصة تاريخ انتهاء الصلاحية
+other_info_lable,الآخرين
+confi_info_lable,ترتيب
+performance_info_lable,أداء
+licence_info_lable,رخصة
+price_info_lable,السعر
+api_info,إعداد API
+api_title,إعداد API
+api_title_tooltips,اسم API
+api_order_by,ترتيب حسب
+btn_save,حفظ
+btn_cancel,إلغاء
+success_api_edit,تم التحديث بنجاح
+about_gallery,صالة عرض
+wallpaper_edit,تحرير الخلفيات
+categories_label,التصنيفات
+messages_label,رسائل
+categories_label,التصنيفات
+view_all_label,عرض جميع
+divider_label,:
+wallpapers_label,خلفيات
+users_label,المستخدمين
+app_setting,التطبيق معلومات إعداد
+apikey_info,المعهد معلومات مفتاح
+key_label,مفتاح
+success_apikey_edit,يتم تحديث المعهد مفتاح بنجاح
+success_apikey_add,وأضاف المعهد مفتاح بنجاح
+earn_point_label,كسب نقطة
+currency_symbol,رمز العملة
+currency_short_form,نموذج قصيرة العملات
+currency_add,إضافة العملات
+success_currency_edit,لقد تم تحديث عملة بنجاح
+success_currency_add,تمت إضافة العملة بنجاح
+success_currency_delete,لقد تم حذف العملة بنجاح
+delete_currency_label,العملات الحذف؟
+currency_delete_confirm_message,هل تريد حذف العملات؟
+currency_search,البحث العملات
+currency_edit,تحرير العملات
+err_currency_name,يرجى تقديم اسم العملة
+err_currency_len,يجب أن يكون طول اسم العملة أكبر من 4
+err_currency_exist,وجدت اسم العملة بالفعل في النظام
+color_color,اللون
+select_type,اختر صنف
+from_point,من نقطة:
+to_point,أن نشير :
+order_by,ترتيب حسب :
+select_order,اختر طلبا
+push_noti_sending_title,إرسال إشعار دفع
+no_device_label,لا يوجد أي الأجهزة المسجلة حتى الان.
+delete_color_label,حذف اللون؟
+color_delete_confirm_message,هل تريد إلغاء ربط جميع خلفيات تحت هذا اللون حذف؟
+upload_icon,فئة أيقونة
+about_upload_icon,تحميل أيقونة
+fav_upload_icon,الصوت العربي الحر أيقونة
+sidebar_upload_icon,الخلفية شعار
+btn_upload,تحميل
+not_enough_point,عذرا، وجهة نظرك ليست كافية.
+view_count,عرض التهم
+earn_point_label,حصل نقطة
+download_count,عدد تحميل
+rating_count,عدد التقييم
+terms_label,الأحكام والشروط
+about_img,حول صورة الغلاف
+massupload_info,كتلة خلفيات تحميل عن طريق ملف CSV
+select_csv_file,حدد ملف CSV
+something_wrong_upload,الخطأ شيء في البيانات الخاصة بك التي تم تحميلها.
+pls_upload_csv,يرجى تحميل ملف CSV.
+sample_csv_format,CSV عينة هنا هو: https://www.dropbox.com/s/oheyivxfgdlk129/sample.csv؟dl=0
+csv_upload_instruction,"يرجى اتباع هذه الخطوات في أدناه: <BR>
+المجلد 1. تحميل الصور لتحميل يدويا عبر FTP. <BR>
+2. تحميل الصور المصغرة الصور لتحميل / مصغرة مجلد manully عبر FTP. <BR>
+3. ثم إعداد مثل شكل CSV. عينة هنا: http://bit.ly/2UvCjRp <BR>
+4. ضرورة اتباع تلك القواعد. هنا: http://bit.ly/2T1Tjgp <BR>
+5. يمكنك استخدام ورقة جوجل لإنشاء وتصدير وفاصل فاصلة. <BR>
+6. الموصى بها حوالي 100 سجل في CSV واحد. ""؛"
+noti_sent_fail,فشل في إرسال إشعار الدفع
+noti_sent_success,أرسلت بنجاح دفع الاخطار ل
+reject_message_1,آسف! رفض ورق الجدران (
+reject_message_2,)
+approve_message_1,تهنئة! وافقت لورق الحائط (
+approve_message_2,)
+uploaded_user,العضو مرفوع
+select_multiple_images,يرجى تحديد عدة صور ورق الحائط.
+multiple_images_message,ملاحظة: صور ورق الحائط الخاص بك سيكون إنقاذ نفسها من أجل الاسم، التصنيف، واسطة، واللون، النوع، علامة، نقطة، نشر، يوصي.
+multiple_wallpaper_title,"متعددة خلفيات تحميل ""واسطة، واللون، النوع، علامة، نقطة، نشر، يوصي""."
+delete_user_label,حذف عضو مسجل؟
+user_delete_confirm_message,هل تريد حذف كل عضو مسجل؟
+user_yes_all_label,نعم جميعا
+user_no_only_label,الوحيد الفئة
+success_user_delete,لقد تم حذف العضو المسجل بنجاح
+credit,ائتمان
+price_info,معلومات السعر
+price_name,اسم الأسعار
+price_edit,تحرير الأسعار
+price_add,إضافة الأسعار
+price_search,البحث السعر
+delete_price_label,الأسعار الحذف؟
+price_delete_confirm_message,هل تريد حذف الأسعار؟
+err_price_name,يرجى تقديم اسم السعر
+err_price_len,يجب أن يكون طول اسم الأسعار أكبر من 4
+err_price_exist,وجدت السعر الاسم بالفعل في النظام
+success_price_edit,تم تحديث السعر بنجاح
+success_price_add,تمت إضافة سعر بنجاح
+success_price_delete,لقد تم حذف السعر بنجاح
+type_info,الوعاء نوع
+type_name,أكتب اسم
+type_edit,تحرير نوع
+type_add,إضافة نوع
+type_search,نوع البحث
+delete_type_label,حذف نوع؟
+type_delete_confirm_message,هل تريد حذف نوع؟
+err_type_name,يرجى تقديم اسم نوع
+err_type_len,يجب أن يكون طول اسم نوع أكبر من 4
+err_type_exist,وجدت النوع الاسم بالفعل في النظام
+success_type_edit,تم تحديث نوع بنجاح
+success_type_add,تمت إضافة نوع بنجاح
+success_type_delete,لقد تم حذف نوع بنجاح
+project_name,اسم المشروع النوع
+project_search,بحث نوع المشروع
+project_add,إضافة نوع المشروع
+project_info,مشروع معلومات نوع
+project_edit,تحرير نوع المشروع
+delete_project_label,حذف نوع المشروع؟
+project_delete_confirm_message,هل تريد حذف أنواع المشاريع؟
+project_yes_all_message,نعم جميع - مشروع النوع سيتم حذف من النظام.
+success_project_edit,تم تحديث المشاريع من النوع بنجاح
+success_project_add,تمت إضافة نوع المشروع بنجاح
+success_project_delete,تم حذف المشاريع من النوع بنجاح
+err_project_name,يرجى تقديم اسم نوع المشروع
+err_project_len,يجب أن يكون طول نوع المشروع اسم أكبر من 4
+post_name,أرسلت بواسطة اسم
+post_search,بحث أرسلت بواسطة
+post_add,إضافة أرسلت بواسطة
+post_info,أرسلت بواسطة معلومات
+post_edit,تحرير أرسلت بواسطة
+delete_post_label,حذف أرسلت بواسطة؟
+post_delete_confirm_message,هل تريد حذف أرفق؟
+post_yes_all_message,نعم جميع - نشرت وعن طريق حذف من النظام.
+success_post_edit,أرسلت بواسطة تم تحديث بنجاح
+success_post_add,أرسلت بواسطة تمت إضافة بنجاح
+success_post_delete,أرسلت بواسطة قد تم حذفه بنجاح
+err_post_name,يرجى تقديم المرسلة بواسطة اسم
+err_post_exist,أرسلت بواسطة اسم غير موجودة بالفعل في النظام
+err_post_len,يجب أن يكون طول أرسلت بواسطة اسم أكبر من 4
+available_name,اسم التوفر
+available_search,البحث التوفر
+available_add,إضافة التوفر
+available_info,معلومات التوفر
+available_edit,تحرير التوفر
+delete_available_label,التوفر الحذف؟
+available_delete_confirm_message,هل تريد حذف توافر؟
+available_yes_all_message,نعم جميع - الشواغر سيتم حذف من النظام.
+success_available_edit,تم تحديث توفر بنجاح
+success_available_add,تمت إضافة التوفر بنجاح
+success_available_delete,لقد تم حذف توفر بنجاح
+err_available_name,يرجى تقديم اسم توفر
+err_available_len,يجب أن يكون طول التوفر اسم أكبر من 4
+err_available_exist,وتوجد بالفعل اسم توفر في النظام
+ban_info,الصفحة الرئيسية معلومات راية
+ban_name,لافتة اسم الصورة
+ban_edit,تحرير الرئيسية راية
+ban_add,إضافة الرئيسية راية
+ban_image,صورة بانر
+ban_search,بحث بيتية راية
+delete_ban_label,حذف الرئيسية راية؟
+ban_delete_confirm_message,هل تريد حذف الصفحة الرئيسية راية النوع؟
+err_ban_name,يرجى تقديم اسم راية الوطن
+err_ban_len,يجب أن يكون طول الرئيسية راية اسم أكبر من 4
+err_ban_exist,وجدت المنزل راية الاسم بالفعل في النظام
+success_ban_edit,تم تحديث الرئيسية راية بنجاح
+success_ban_add,تمت إضافة الرئيسية راية بنجاح
+success_ban_delete,تم حذف الصفحة الرئيسية راية بنجاح
+location_info,المدينة معلومات
+location_name,اسم الموقع
+location_edit,تحديد الوجهة
+location_add,إضافة الموقع
+location_search,بحث الموقع
+delete_location_label,حذف الموقع؟
+location_delete_confirm_message,هل تريد حذف الموقع؟
+err_location_name,يرجى تقديم اسم الموقع
+err_location_len,يجب أن يكون طول اسم المكان أكبر من 4
+err_location_exist,وجدت اسم المكان بالفعل في النظام
+success_location_edit,تم تحديث الموقع بنجاح
+success_location_add,تمت إضافة الموقع بنجاح
+success_location_delete,لقد تم حذف الموقع بنجاح
+blog_add,أضف مدونتك
+blog_info,معلومات بلوق
+blog_name,مقالات اسم
+blog_desc,وصف المدونة
+blog_edit,تحرير المدونات
+success_blog_add,تمت إضافة بلوق بنجاح
+success_blog_edit,تم تحديث بلوق بنجاح
+err_dup_name,وجدت الاسم بالفعل في النظام
+err_blog_exist,مقالات وجدت اسم بالفعل في النظام
+delete_blog_label,مدونة الحذف؟
+blog_delete_confirm_message,هل أنت متأكد من حذف هذه بلوق؟
+success_blog_delete,تم حذف بلوق بنجاح
+err_blog_len,يجب أن يكون طول بلوق اسم أكبر من 4
+err_blog_name,يرجى تقديم اسم بلوق
+blog_search,بلوق البحث
+blog_gallery,مقالات معرض الصور
+btn_disable,تعطيل
+report_edit,تقرير تحرير عنصر
+total_category_count_label,عدد الأقسام
+total_sub_cat_count_label,عدد الفئات الفرعية
+total_blog_count_label,مجموع المدونات
+total_contact_count_label,إجمالي الاتصال رسالة
+popular_item,البند الأكثر شعبية
+item_report,ذكر البند
+items_label,عناصر أضيفت مؤخرا
+item_img,البند صورة
+popular_item_info,شعبية البند المعلومات
+popular_item_view,مشاهدة السلعة الشعبية
+app_setting_lable,التطبيق معلومات إعداد
+app_lat_label,خط العرض
+app_lng_label,خط الطول
+location_info_label,معلومات الموقع
+err_chat_history_not_exist,العثور على أي سجل في التاريخ الدردشة
+accept_update_success,تم تحديث قبول العرض بنجاح
+err_accept_update,نعتذر، ليس هناك مشكلة في قبول العرض
+count_update_success,تم تحديث عدد إعادة تعيين بنجاح
+err_count_update,نعتذر، ليس هناك مشكلة في العد إعادة تعيين
+price_update_success,تم تحديث السعر بنجاح
+err_price_update,عذرا، هناك مشكلة في السعر
+err_accept_offer,عذرا ، لا يمكنك قبول العرض مرة أخرى.
+overall_rating,تقييم
+user_is_verify_do_forgot_password,يتم التحقق من حسابك من فضلك لذلك نسيت كلمة السر.
+user_view,عرض العضو
+user_address,عنوان
+user_city,مدينة
+about_me,عني
+verify_type,تحقق من نوع
+follower_count,عدد أتباع
+following_count,وبعد عدد
+user_profile,الملف الشخصي صورة
+email_verify,البريد الإلكتروني التحقق
+facebook_verify,الفيسبوك التحقق
+google_verify,جوجل تحقق
+phone_verify,الهاتف تحقق
+condition_name,حالة اسم
+cond_search,بحث الحالة
+condition_add,إضافة شرط
+condition_info,البند الحالة معلومات
+cond_edit,تحرير الشرط
+delete_condition_label,حذف الشرط؟
+condition_delete_confirm_message,هل تريد حذف الشروط؟
+condition_yes_all_message,نعم جميع - الحالة وحدات وحذف من النظام.
+success_condition_edit,تم تحديث حالة بنجاح
+success_condition_add,تم إضافة شرط بنجاح
+success_condition_delete,تم حذف شرط بنجاح
+err_condition_name,يرجى تقديم اسم شرط
+err_condition_len,يجب أن يكون طول الشرط اسم أكبر من 4
+err_condition_exist,وجدت حالة الاسم بالفعل في النظام
+cat_module,التصنيفات
+overlooking_module,تطل على
+contact_module,الاتصال بنا رسالة
+sys_user_module,المستخدمين النظام
+register_user_module,المستخدمون المسجلون
+about_module,حول التطبيق
+push_noti_module,إعلام دفع
+analytics_module,تحليلات
+export_db_module,تصدير قاعدة البيانات
+app_setting_module,إعداد APP
+property_module,خاصية
+popular_property_module,الأكثر الملكية الشعبية
+projecttype_module,أنواع المشاريع
+postedby_module,منشور من طرف
+apikey_module,المعهد مفاتيح
+apis_module,إعداد API
+availability_module,توفر
+rating_module,معظم تقييم المستخدمين
+sellertype_module,نوع البائع
+transmissions_module,الإرسال
+banners_module,الصفحة الرئيسية راية
+item_conditions_module,شرط
+version_module,نسخة التطبيق
+item_currency_module,عملة
+item_price_module,السعر
+item_type_module,نوع
+blog_module,مدونة
+item_reports_module,الملكية المبلغ عنها
+app_setting_module,إعداد التطبيق
+location_module,???? ?????
+language_module,اللغات
+lang_name,اسم اللغة
+btn_active,نشيط
+lang_string,سلسلة اللغة
+lang_add,إضافة لغة
+lang_info,اللغة المعلومات
+lang_symbol,رمز
+lang_search,لغة البحث
+lang_edit,تحرير اللغة
+success_lang_edit,تم تحديث اللغة بنجاح
+success_lang_add,تم إضافة اللغة بنجاح
+success_lang_delete,تم حذف اللغة بنجاح
+err_lang_name,يرجى تقديم اسم اللغة
+err_lang_len,يجب أن يكون طول اسم اللغة أكبر من 4
+err_lang_exist,وجدت اسم اللغة بالفعل في النظام
+delete_lang_label,حذف اللغة؟
+lang_delete_confirm_message,هل تريد حذف جميع سلسلة بموجب ذلك جنبا إلى جنب اللغة؟
+lang_yes_all_label,نعم جميعا
+lang_no_only_label,فقط اللغة
+lang_yes_all_message,نعم جميع - اللغة وحدات وحذف من النظام.
+language_id,لغة
+lang_string_key,مفتاح
+lang_string_value,القيمة
+lang_string_info,معلومات سلسلة اللغة
+select_language,اللغة المختارة
+btn_import,استيراد
+csv_symbol_link,نموذج ملف CSV هنا
+lang_str_search,بحث سلسلة اللغة
+success_langstr_import,سلسلة اللغة بنجاح تحميل ملف CSV
+lang_str_add,إضافة سلسلة اللغة
+lang_str_edit,تحرير سلسلة اللغة
+lang_active,نشيط
+lang_deactive,إبطال
+success_lang_str_edit,تم تحديث سلسلة اللغة بنجاح
+success_lang_str_add,تمت إضافة سلسلة اللغة بنجاح
+err_lang_str_name,يرجى تقديم لغة اسم سلسلة
+err_lang_str_len,يجب أن يكون طول سلسلة لغة أكبر من 4
+err_lang_str_exist,وجدت سلسلة اللغة بالفعل في النظام
+lang_title,اللغة محذوفة؟
+lang_warning,لا يمكنك حذف اللغة النشطة.
+btn_ok,حسنا
+list_lang_label,اللغات
+list_lang_str_label,لغة سلاسل
+err_lang_symbol,يرجى تقديم رمز اللغة
+entry_group,دخول
+reports_group,تقارير
+user_mang_group,إدارة المستخدمين
+miscellaneous_group,متنوع
+setting_group,ضبط
+ple_sub_cat_name,يرجى اسم الفئة الفرعية
+ple_highlight_info,يرجى تسليط الضوء على معلومات
+forget_pwd,هل نسيت كلمة المرور؟
+remove_label,إزالة
+paid_item_module,تقرير الملكية المدعومة
+his_info,معلومات التاريخ
+start_date_label,تاريخ البدء
+end_date_label,تاريخ الانتهاء
+amount_label,كمية
+payment_method_label,طريقة الدفع او السداد
+progress_label,تقدم
+finished_label,تم الانتهاء من
+not_yet_start_label,لم يبدأ بعد
+today_label,اليوم
+backend_setting_module,إعداد الخلفية
+backend_config_info_lable,الخلفية معلومات إعداد
+sender_name_label,اسم المرسل
+receive_email_label,استلام بريد الكتروني
+sender_email_label,البريد الإلكتروني المرسل
+img_section,القسم صورة
+fcm_api_key_label,مفتاح API FCM
+backend_login_img,الخلفية الدخول صورة الخلفية
+backend_logo,الخلفية شعار
+backend_fav_icon,الخلفية الصوت العربي الحر منظمة البن الدولية
+upload_backend_logo,تحميل الخلفية شعار
+upload_fav_icon,تحميل الصوت العربي الحر أيقونة
+upload_login_img,إضافة أغاني دخول صور
+transaction_module,المعاملات التاريخ
+history_search,المعاملات عمليات البحث السابقة
+trans_history_info,المعاملات معلومات التاريخ
+today_label,اليوم
+second_ago,ثواني
+minute_ago,الدقائق
+hour_ago,ساعات
+day_ago,أيام
+week_ago,أسابيع
+month_ago,الشهور
+year_ago,سنوات
+decade_ago,عقود
+just_now_label,في هذة اللحظة
+ago_label,منذ
+user_acc_reg_label,جديد التسجيل في حساب المستخدم
+user_register_success_but_email_not_send,تسجيل المستخدم النجاح ولكن لا ترسل البريد الإلكتروني
+pwd_reset_label,إعادة تعيين كلمة المرور
+hi_label,مرحبا
+pwd_reset_link,الرجاء الضغط على الرابط التالي لإعادة تعيين كلمة المرور الخاصة بك
+reset_link_label,إعادة تعيين كلمة المرور
+best_regards_label,تحياتي الحارة
+new_user_acc,تم إنشاء حساب المستخدم الجديد الخاص بك. مرحبًا بك في Ad House. يرجى التحقق من الرمز الموجود أدناه لتنشيط حسابك.
+verify_code_label,كود التحقق
+hi_admin_label,مرحبا الادارية
+name_label,اسم
+email_label,البريد الإلكتروني
+phone_label,هاتف
+msg_label,رسالة
+verify_code_sent,تم إرسال رمز التحقق.
+user_id_required,مطلوب هوية المستخدم.
+invalid_login_user_id,معرف المستخدم غير صالح.
+already_accept_user,وقد تم قبول المستخدم.
+sender_id_required,مطلوب هوية المرسل
+success_delete,تم الحذف بنجاح.
+success_cat_request,طلبك بنجاح.
+err_cat_request,عذرا، طلبك لا نجاح.
+err_chat_history_save,عذرا، سجل الدردشات غير قادرة على حفظ.
+accept_reset_success,طلبك دردشة بنجاح.
+error_delete_chat_history,عذرا، سجل الدردشات غير قادرة على حذف.
+success_delete_chat_history,سجل الدردشات حذف بنجاح.
+err_soldout_reset,عذرا، لا يمكنك راحة لمدة بيعت.
+soldout_reset_success,وقد تم إعادة تعيين نجاحك.
+err_item_report,عذرا، لم تكن قادرة على تقرير البند.
+token_already_exist,عذرا، جهاز التوثيق بالفعل موجودة.
+err_in_noti_read,عذرا، إعلام غير قادر على القراءة.
+success_noti_send,وقد أرسلت إخطارا بنجاح.
+error_noti_send,عذرا، إعلام غير قادرة على إرسال.
+invalid_code,عذرا، التعليمات البرمجية غير صالح.
+forget_pwd,هل نسيت كلمة المرور؟
+remove_label,إزالة
+btn_no,لا
+ple_model_name,إرضاء اسم الموديل
+err_paid_item_history,إعلانك لا ينتهي بعد ذلك أنه ليس قادرا على تعديل.
+paid_config_module,إعداد الدفع
+currency_symbol_label,رمز العملة (على سبيل المثال؛ $)
+paypal_env_label,باي بال البيئة
+paypal_merchant_label,باي بال ID تاجر
+paypal_pub_label,باي بال المفتاح العمومي
+paypal_pri_label,باي بال مفتاح خاص
+paypal_enabled_label,وباي بال ممكن؟
+stripe_publishable_key,للنشر مفتاح
+stripe_secret_key,سر مفتاح
+stripe_enable_label,تمكين الشريط الدفع؟
+stripe_label,[الخيار 2]: الدفع مع الشريط
+paypal_label,[الخيار 1]: الدفع مع باي بال ممكن
+day_label,يوم
+paid_config_info_lable,دفعت معلومات التكوين
+paid_currrency_setting,إعداد رمز العملة
+paid_paypal_setting,إعداد باي بال
+paid_stripe_setting,إعداد شريط
+overlooking_label,تطل على
+itm_select_overlooking,تطل على
+list_product_nav,خاصية
+prd_add,إضافة خاصية
+att_add,إضافة سمة جديدة
+add_att_detail,إضافة جديد السمة التفاصيل
+list_attribute_header,السمة قائمة رأس
+wrn_no_data,لا توجد بيانات حتى الآن
+item_name,اسم الخاصية
+att_name,اسم السمة
+Prd_search_cat,حدد اسم التصنيف
+Prd_search_dis,اختر نوع الخصم
+product_gallery,صور العقار
+prd_info,معلومات الملكية
+rec_prd_info,خصائص أضيفت مؤخرا
+att_info,معلومات السمة
+prd_desc,وصف العقار
+prd_high_info,معلومات تسليط الضوء على الممتلكات
+prd_edit,تحرير خاصية
+prd_code,قانون الملكية
+success_prd_add,تمت إضافة خاصية بنجاح
+success_prd_edit,تم تحديث خاصية بنجاح
+success_upload,تم تحديث الصورة بنجاح
+delete_prd_label,حذف الملكية؟
+prd_yes_all_message,عند حذف هذه الخاصية ، سيتم حذف جميع الفئات الفرعية والفئات ذات الصلة أيضًا. لذا ، هل ما زلت تريد الحذف
+success_prd_delete,تم حذف خاصية بنجاح
+prd_search,البحث عن عقار
+err_item_name,يرجى تقديم اسم الخاصية
+err_item_len,يجب أن يكون طول اسم الملكية أكبر من 4
+err_item_exist,وجدت اسم الملكية بالفعل في النظام
+item_gallery,صور العقار
+condition_of_item,حالة من الملكية
+item_description_label,وصف
+deal_option_id_label,صفقة الخيار
+meet_up_label,نلتقي
+mailing_or_delivery_label,بريدية أو تسليم
+brand_label,علامة تجارية
+price,السعر
+itm_title_label,عنوان
+itm_business_mode,هو محل؟
+itm_show_shop,(إذا كان يمكن أن تظهر للمستخدم من أجل أكثر من واحد)
+itm_is_sold_out,وبيعت؟
+location_info_label,معلومات الموقع
+itm_address_label,عنوان
+itm_lat_label,خط العرض
+itm_lng_label,خط الطول
+itm_select_price,حدد السعر نوع
+itm_select_type,اختر نوع العقار
+itm_select_currency,اختيار العملة الملكية
+status_label,الحالة
+select_status_label,اختر الحالة
+itm_select_location,حدد موقع العقار
+find_location_label,اكتب والبحث عن موقع من API جوجل
+itm_select_condition_of_item,اختر الحالة الممتلكات
+itm_select_deal_option,اختر صفقة الخيار
+configuration_info_label,ترتيب
+price_info_label,السعر
+floor_number_label,رقم الدور
+facing_number_label,مواجهة
+postedby_info_label,منشور من طرف
+overlooking_label,تطل على
+property_status_label,الحالة الممتلكات
+others_label,الآخرين
+amenities_info_label,وسائل الراحة
+area_info_label,منطقة
+super_build_up_area_label,سوبر بناء منطقة
+build_up_area_label,بناء منطقة
+carpet_area_label,صافي المساحة
+land_size_label,حجم الأرض
+rooms_label,غرف
+bath_rooms_label,حمام غرف
+rooms_confi_label,تكوين غرف
+price_unit_label,سعر الوحدة
+price_note_label,سعر ملاحظة
+is_nagotiable_label,قابل للتفاوض؟
+floor_level_label,مستوى الطابق
+facing_label,مواجهة
+itm_select_posted,منشور من طرف
+itm_select_overlooking,تطل على
+property_age_label,العمر الملكية
+currently_tenanted_label,حاليا المؤجرة
+itm_select_availabel,توفر
+availabel_for_label,متاح لى
+tenure_label,فترة
+construction_status_label,حالة البناء
+possession_date_label,ملكية
+itm_select_project,نوع المشروع
+property_owner_label,الملكية
+developer_label,مطور
+furnishing_label,تأثيث
+flooring_label,أرضية
+water_source_label,مصدر المياه
+width_of_facing_road_label,عرض الطريق التي تواجه
+parking_label,موقف سيارات
+power_backup_label,الطاقة الاحتياطية
+itm_is_lift,هو ارفع؟
+itm_is_park,هو بارك؟
+itm_is_gymnasium,غير صالة للألعاب الرياضية
+itm_is_swimming_pool,هو بركة سباحة؟
+itm_is_security_personnel,هل رجال الأمن؟
+itm_is_gas_pipeline,هو خط أنابيب الغاز؟
+itm_is_club_house,هو بيت النادي؟
+itm_is_wheelchair_friendly,هل تسهيلات لدخول الكراسي ودية؟
+itm_is_pet_friendly,غير مسموح باصطحاب الحيوانات الأليفة؟
+itm_is_maintenance_staff,غير الموظفين الصيانة؟
+item_property_module,الملكية المبلغ عنها
+success_backend_edit,تم تحديث إعداد الخلفية بنجاح
+smtp_section,تكوين SMTP
+smtp_host_label,المضيف SMTP
+smtp_host_placeholder,على سبيل المثال: SSL: //smtp.hostmail.com
+smtp_port_label,رقم منفذ SMTP
+smtp_enable,SMTP تمكين؟
+smtp_user_label,SMTP العضو
+smtp_pass_label,SMTP كلمة المرور
+cannot_deactive,آسف، فإنه غير قادر على تعطيل.
+err_symbol_exist,وجود رمز اللغة بالفعل في النظام.
+success_paypal_edit,تم تحديث التكوينات المدفوعة بنجاح
+apple_verify,التحقق من Apple
+policy_info,معلومات سياسة الخصوصية
+content_label,المحتوى
+privacy_policy_module,سياسة الخصوصية
+success_policy_edit,تم تحديث سياسة الخصوصية بنجاح
+success_policy_add,تمت إضافة سياسة الخصوصية بنجاح
+razor_label,[الخيار 5]: الدفع باستخدام Razor
+razor_key_label,مفتاح الشفرة
+razor_enabled_label,هل تم تمكين الشفرة؟
+btn_promote,ينمى
+prd_paid_info,معلومات البند المدفوعة
+app_is_approval_enabled,"الموافقة على النظام؟ (إذا كان هذا الإعداد تشغيل ""، عندما تحديث المستعمل عنصر جديد""، فإنه بحاجة إلى قبول أو رفض من سوبر المشرف.) """
+approval_group,موافقة
+pending_items_module,في انتظار البنود
+reject_items_module,رفض العناصر
+disable_items_module,تعطيل العناصر
+select_status,حدد الحالة؟
+pending_edit,تحرير عنصر معلق
+approve_message_1,تهنئة! البند المعتمد (
+approve_message_2,)
+disable_message_1,آسف! تعطيل البند (
+disable_message_2,)
+reject_message_1,آسف! رفض البند (
+reject_message_2,)
+reject_edit,تحرير رفض العناصر
+disable_edit,تحرير عناصر تعطيل
+noti_sent_fail,فشل في إرسال إشعار الدفع
+noti_sent_success,تم إرسال إشعار الدفع بنجاح إلى
+success_app_setting_edit,تم تحديث إعداد التطبيق بنجاح
+إعداد اسم القائمة الفرعية,مجموعة الوحدات
+group_name,اسم مجموعة الوحدة النمطية
+group_icon,رمز مجموعة الوحدة النمطية
+group_lang_key,مفتاح اللغة
+group_info,معلومات مجموعة الوحدة النمطية
+group_search,مجموعة وحدة البحث
+group_add,إضافة مجموعة الوحدة النمطية
+success_group_edit,تم تعديل مجموعة الوحدة بنجاح
+success_group_add,تمت إضافة مجموعة الوحدة النمطية بنجاح
+group_edit,تحرير مجموعة الوحدة النمطية
+success_group_delete,تم حذف مجموعة الوحدة النمطية بنجاح
+err_group_name,يرجى تقديم مجموعة الوحدة النمطية
+err_group_len,يجب أن يكون طول اسم مجموعة الوحدة النمطية أكبر من 4
+err_group_exist,اسم مجموعة الوحدة النمطية موجود بالفعل
+module_lang,إعداد اسم القائمة الفرعية
+module_desc,وصف
+module_ordering,الطلب
+module_add,أضف الوحدة
+module_info,معلومات الوحدة
+module_name,اسم وحدة
+is_show_on_menu,هل تظهر في القائمة؟
+module_lang_key,مفتاح لغة الوحدة
+module_select_group,حدد مجموعة الوحدة النمطية
+delete_module_label,حذف الوحدة؟
+module_delete_confirm_message,هل أنت متأكد من حذف هذه الوحدة؟
+delete_group_label,حذف مجموعة الوحدة النمطية؟
+group_delete_confirm_message,هل أنت متأكد من حذف مجموعة الوحدة هذه؟
+err_module_name,يرجى تقديم اسم الوحدة
+err_module_len,يجب أن يكون طول اسم الوحدة أكبر من 4
+err_module_exist,اسم الوحدة موجود بالفعل
+module_search,اسم وحدة البحث
+success_module_edit,تم تحديث الوحدة بنجاح.
+success_module_add,تمت إضافة الوحدة بنجاح.
+module_edit,تحرير الوحدة
+success_module_delete,تم حذف الوحدة بنجاح.
+approval_yes_all_message,هل انت متأكد من الحذف؟
+err_user_phone_exist,هاتف المستخدم موجود بالفعل.
+delete_system_user_label,حذف مستخدم النظام؟
+system_user_delete_confirm_message,هل أنت متأكد من حذف مستخدم النظام هذا؟
+loc_ordering,الطلب
+record_not_found,10001 ## آسف ، السجل غير موجود.
+no_record_pagination,10002 ## آسف ، لا يوجد المزيد من السجلات في النظام.
+offline_paid_module,طلب عناصر مدعومة دون اتصال
+offline_paid_prd_info,معلومات العناصر المدفوعة دون اتصال بالإنترنت
+offline_paid_edit,تحرير العنصر المدفوع دون اتصال
+offline_setting,إعداد غير متصل بالشبكة
+offline_label,[الخيار 4]: الدفع بدون الاتصال بالإنترنت
+offline_message,رسالة
+offline_enabled_label,هل ممكن دون اتصال؟
+prd_paid_info,معلومات السلعة المدفوعة
+offline_info,معلومات الدفع دون اتصال
+offline_title_label,عنوان الدفع دون اتصال
+offline_description_label,وصف الدفع دون اتصال
+offline_icon,أيقونة الدفع دون اتصال
+offline_search,بحث الدفع دون اتصال
+offline_add,إضافة الدفع دون اتصال
+offline_edit,تحرير الدفع دون اتصال
+success_offline_edit,تم تحديث الدفع دون اتصال بنجاح
+success_offline_add,تمت إضافة الدفع دون اتصال بنجاح
+success_offline_delete,تم حذف الدفع دون اتصال بنجاح
+err_offline_name,يرجى تقديم عنوان الدفع دون اتصال
+err_offline_len,يجب أن يكون طول عنوان الدفع دون اتصال بالإنترنت أكبر من 4
+err_offline_exist,عنوان Paymen غير متصل موجود بالفعل في النظام
+delete_offline_label,حذف الدفع دون اتصال؟
+offline_delete_confirm_message,هل تريد حذف جميع المدفوعات غير المتصلة بالإنترنت؟
+offline_yes_all_label,نعم
+offline_no_only_label,إلغاء
+offline_payment,إعداد الدفع دون اتصال
+offline_paid_module,طلب عناصر مدعومة دون اتصال
+img_configuration,تكوين الصورة
+land_width_label,عرض أفقي
+potrait_height_label,ارتفاع الصورة
+square_label,ارتفاع مربع
+err_lat,يرجى تقديم خط العرض
+err_lng,يرجى تقديم خط الطول
+err_lat_lng,لا يجب أن يكون خط العرض والطول 0.0
+offline_yes_all_message,هل تريد حذف كل المبالغ حاليا؟
+email_verification_enabled," ""أرسل ممكن التحقق؟ (إذا كان هذا الإعداد"" تشغيل ""عند تسجيل المستخدم باستخدام البريد الإلكتروني وسوف ترسل رمز التحقق إلى البريد الإلكتروني للمستخدم مسجل.)"""
+user_auto_approved,تم إنشاء حساب المستخدم الجديد. مرحبا بكم في منازل الإعلان.
+user_not_able_delete," ""عذرا، هذا هو حساب النظام حتى لا يكون قادرا على تعطيل."""
+success_block,وقد تم حظر المستخدم بنجاح.
+success_unblock,تم إلغاء حظر المستخدم بنجاح.
+no_user_unblock,غير قادر على إلغاء حظر المستخدم.
+unable_to_report,غير قادر على الإبلاغ عن هذا البند لأنه البند الخاص بك.
+success_logout,كان المستخدم بنجاح الخروج.
+already_report,لقد ذكرت بالفعل لهذا البند.
+lat_invlaid,خط العرض يجب أن تكون بين -90 و 90 درجة ضمنا.
+lng_invlaid,يجب أن يكون خط الطول بين -180 و 180 درجة شامل.
+paystack_setting,إعداد Paystack
+paystack_label,[الخيار 5]: الدفع مع Paystack
+paystack_key_label,Paystack مفتاح
+paystack_enabled_label,وPaystack ممكن؟
+purchase_add,إضافة في المنتج التطبيق
+in_app_purchase_info,في معلومات التطبيقات المشتراة
+app_purchase_product_id_label,في التطبيق شراء رقم المنتج
+purchase_description_label,
+purchase_type_label,اكتب
+err_purchase_description,يرجى تقديم الوصف
+success_purchase_edit,في تطبيق تم شراؤه تم تحديث بنجاح.
+delete_purchase_label,حذف في التطبيق شراؤها؟
+purchase_yes_all_message,هل تريد حذف في التطبيقات المشتراة؟
+success_purchase_delete,في التطبيق قد تم حذفه بنجاح شراؤها.
+in_app_purchased_setting,في التطبيقات إعداد شراؤها
+purchase_key_label,يمكنك تسديد المبلغ ب في التطبيق شراء
+purchase_enabled_label,وشراء ممكن؟
+err_purchase_id,يرجى تقديم رقم شراء.
+btn_duplicate,مكرر
+success_prd_duplicate_add,تمت إضافة عنصر مكرر بنجاح ،
+deeplink_section,قسم الربط العميق
+dyn_link_key_label,مفتاح الارتباط الديناميكي
+dyn_link_url_label,رابط ديناميكي URL
+dyn_link_package_name_label,اسم حزمة الارتباط الديناميكي
+dyn_link_domain_label,مجال الربط الديناميكي
+dyn_link_deep_url_label,رابط عميق للرابط
+prd_dynamic_link_label,رابط ديناميكي للمنتج
+dyn_link_package_name_ios,دينامية ربط IOS اسم الحزمة
+dyn_link_ios_appstore_id,ارتباط ديناميكي IOS أبستور رقم
+location_townships,البلدات الموقع
+location_township_add,إضافة موقع بلدة
+township_edit,تحرير بلدة
+location_township_name,اسم الموقع البلدات
+township_name,اسم البلدة
+err_township_name,يرجى تقديم اسم بلدة
+err_township_len,يجب أن يكون طول اسم بلدة أكبر من 4
+township_search,بحث بلدة
+success_township_edit,تم تحديث بلدة بنجاح
+success_township_add,تمت إضافة بلدة بنجاح
+property_by,الملكية بواسطة
+property_add,إضافة الملكية بواسطة
+property_search,البحث عن عقار بواسطة
+property_info,الملكية بالمعلومات
+property_name,الملكية بالاسم
+success_property_add,تمت إضافة الخاصية بواسطة بنجاح
+success_property_edit,تم تحرير الخاصية بواسطة بنجاح.
+success_property_delete,تم حذف الخاصية بواسطة بنجاح.
+err_property_name,يرجى تقديم العقار بالاسم.
+err_property_len,يجب أن يكون طول الخاصية بالاسم أكبر من 4.
+err_property_exist,الخاصية بالاسم موجودة بالفعل.
+delete_property_label,حذف الملكية بواسطة؟
+property_delete_confirm_message,هل تريد حذف الخاصية عن طريق؟
+property_edit,تحرير الخاصية بواسطة
+amenities,وسائل الراحة
+amenity_name,اسم وسائل الراحة
+amenity_add,أضف وسائل الراحة
+amenity_img,صورة وسائل الراحة
+amenities_info_label,معلومات وسائل الراحة
+success_amenity_add,تمت إضافة وسائل الراحة بنجاح.
+success_amenity_edit,تم تحرير وسائل الراحة بنجاح.
+delete_amenity_label,حذف وسائل الراحة؟
+amenity_delete_confirm_message,هل تريد حذف الراحة؟
+amenity_edit,تحرير وسائل الراحة
+amenity_search,وسائل الراحة البحث
+success_amenity_delete,تم حذف الراحة بنجاح.
+color,اللون
+purchase_search,البحث في شراء التطبيق
+purchase_edit,تحرير في شراء التطبيق
+item_property_name,الملكية بالاسم
+area_label,منطقة
+configuration_label,ترتيب
+itm_select_property,حدد الملكية بواسطة
+is_negotiable,قابل للتفاوض
+itm_select_location_township,حدد موقع العقار المدينة
+itm_select_location_city,حدد موقع العقار المدينة
+itm_select_postedby,حدد خاصية تم نشرها بواسطة
+Prd_search_location_township,حدد موقع العقار المدينة
+data_delete_info,بيانات حذف معلومات سياسة
+success_data_deletion_add,تمت إضافة نهج حذف البيانات بنجاح.
+success_data_deletion_edit,تم تحديث سياسة حذف البيانات بنجاح.
+data_deletion_module,سياسة حذف البيانات
+data_deletion_policy_url,URL سياسة حذف البيانات
+Data_deletions_policies,سياسات حذف البيانات
+Privacy_policies,سياسات الخصوصية
+privacy_policy_url,URL سياسة الخصوصية
+total_property_count_label,إجمالي الملكية بواسطة
+total_postedby_count_label,إجمالي أرسلت بواسطة
+propertyby_img,الملكية بواسطة صور
+propertyby_icon,الملكية بواسطة أيقونة
+floor_label,رقم الطابق
+owner_name,اسم المالك
+owner_of_item,صاحب البند
+payment_status,حالة السداد
+waiting_for_payment_label,بانتظار الموافقة
+paid_label,دفع
+paid_reject_label,رفض
+select_payment_status_label,حدد الدفع الحالة تسمية
+is_sub_location,"فرعية الموقع في؟ (إذا كان هذا الإعداد ""تشغيل"" عندما يقوم المستخدم بفتح التطبيق الحاجة المستخدم لاختيار موقع فرعي (بلدة) ضمن الموقع (المدينة))"
+thumbnail_generators_lng,تصغير مولد
+btn_create_thumbnail,صورة مصغرة (1x2x3x) مولد
+thumb_1x_label,صورة مصغرة 1X حجم الصورة
+thumb_2x_label,تصغير حجم الصورة 2X
+thumb_3x_label,صورة مصغرة 3X حجم الصورة
+image_lists_lng,قوائم صورة
+img_name,اسم الصورة
+success_img_create,صورة مصغرة 2X، 3X تم إنشاء بنجاح.
+img_not_exist,لم تكن موجودة الصورة في مجلد تحميل.
+recommended_size_img,الحجم الموصى به: 400 × 200
+recommended_size_icon,الحجم الموصى به: 200 × 200
+user_social_info_override,تجاهل المعلومات الاجتماعية للمستخدم؟ إذا تم التحقق، فسيتم الكتابة فوق المعلومات الاجتماعية للمستخدم عند تسجيل الدخول باستخدام (Google و Facebook و Phone and Apple، إلخ ...)
+applied_date_label,تاريخ التطبيق (DD / مم / YYYY)
+pending,قيد الانتظار
+verified,تم التحقق
+rejected,مرفوض
+all,الجميع
+currency_info,معلومات العملة
+is_default,تقصير
+success_agent_edit,تم تحديث الوكيل بنجاح
+agent_edit,تحرير وكيل
+cannot_apply_agent,آسف! لا يمكنك تطبيق وكيل
+app_token_label,رمز التطبيق (لصورة الملف الشخصي على Facebook)
+already_sold_out,تم بيع العنصر بالفعل ولا يمكنك تقديم عرض.
+is_show_email,إظهار البريد الإلكتروني
+is_show_phone,إظهار الهاتف
+township_success_edit,تم تحديث بلدة بنجاح.
+already_agent,لا يمكنك تطبيق وكيل مرة أخرى لأنك وكيل بالفعل.
+agent_pending,لا تزال في انتظار، يرجى الانتظار موافقة المسؤول.
+success_agent_delete,تم حذف الوكيل بنجاح.
+cannot_sold_out,لا يمكنك بيع هذا البند.
+cannot_chat,لا يمكنك الدردشة هذا العنصر.
+you_bought,انت اشتريت
+item_video_label,البند الفيديو
+item_video_icon_label,أيقونة الفيديو البند
+price_cannot_zero,لا يمكن أن يكون السعر صفرًا
+err_price,يرجى تقديم سعر العنصر
+deeplink_note_label,ملاحظة - تم إنشاء ارتباط ديناميكي للعنصر بواسطة هذه الإعدادات المذكورة أعلاه. إذا كنت تريد التجديد باستخدام الإعداد الجديد ، فيرجى تغيير الإعداد هنا:
+go_to_be_setting_label,انتقل إلى إعداد الخلفية
+thumb2x_3x_settting_off,إنشاء صورة مصغرة 2x ، إعداد 3x متوقف.
+create_thumb2x_folder,مجلد Thumbnail2x غير موجود ، يرجى إنشائه أولاً. أو يمكنك إيقاف إنشاء إعداد thumb2x و 3x.
+create_thumb3x_folder,مجلد Thumbnail3x غير موجود ، يرجى إنشاؤه أولاً. أو يمكنك إيقاف إنشاء إعداد thumb2x و 3x.
+thumb2x_already_existed,الصورة موجودة بالفعل في مجلد thumbnail2x.
+thumb3x_already_existed,الصورة موجودة بالفعل في مجلد thumbnail3x.
+thumb2x_thumb3x_already_existed,الصورة موجودة بالفعل في مجلدات thumbnail2x و thumbnail3x.
+thumbnail_generator_label,سيتم إنشاء الصور المصغرة لكل عنصر. يرجى ملاحظة أن هذه العملية ستستغرق بعض الوقت بناءً على بياناتك
+is_thumb2x_3x_generate,"الصورة المصغرة 2x ، الإعداد 3x؟ (إذا كان هذا الإعداد ""تشغيل"" عند تحميل الصورة ، فسيؤدي ذلك إلى إنشاء صورة مصغرة 2x وصورة مصغرة 3x تلقائيًا.)"
+err_currency_symbol,يرجى تقديم رمز العملة.
+Item_currency,عملة العنصر
+Image_lists,قوائم الصور
+Thumbnail_generators,مولدات الصور
+demo_login,تسجيل الدخول بحساب تجريبي
+need_accept_offer,هذا العنصر مطلوب لقبول العرض أولاً.
+need_make_offer,هذا العنصر مطلوب لتقديم عرض أولاً.
+already_accept_offer,هذا العنصر هو بالفعل عرض.
+already_reject_offer,هذا البند قد تم رفض العرض بالفعل.
+already_rejected,هذا البند قد تم رفض العرض بالفعل.
+cannot_default,معذرةً ، إنه غير قادر على التراجع عن الإعداد الافتراضي.
+cannot_unpublish,عذرًا ، لا يمكنه إلغاء النشر للعملة الافتراضية.
+approve_item,الموافقة على العنصر
+disable_item,تعطيل العنصر
+reject_item,رفض البند
+receive_rating_from,الحصول على تصنيف من
+verify_email_not_send_user,فشل في إرسال التحقق من البريد الإلكتروني إلى
+need_user_bought,كان المستخدم بحاجة إلى هذا العنصر للشراء أولاً.
+csv_upload_instruction_city,"الرجاء اتباع هذه الخطوات أدناه: <br>
+1. ثم قم بإعداد مثل تنسيق CSV. <a href=""https://drive.google.com/file/d/1g3T6H2cdZsGS0UlHji6_BkP_JIa1YBCy/view؟usp=sharing"" target=""_blank""> نموذج لملف csv هنا </a> <br>
+2. يمكنك استخدام ""جداول بيانات Google"" لإنشاء وتصدير كفاصل فاصلة."
+pls_upload_csv,يرجى تحميل ملف CSV.
+something_wrong_upload,شيء خطأ تحميل الملف
+err_paid_adpost_history,آسف
+total_city,إجمالي مدينة الموقع:
+success_total_city,انجح موقع المدينة:
+fail_total_city,مدينة الموقع الفاشلة:
+total_township,إجمالي موقع البلدة:
+success_total_township,نجح موقع البلدة:
+fail_total_township,بلدة الموقع الفاشلة:
+beacause_db_err,بسبب خطأ في قاعدة البيانات.
+because_miss_city,بسبب فقدان موقع المدينة
+because_miss_township,بسبب فقدان موقع البلدة
+csv_upload_instruction_township,"الرجاء اتباع هذه الخطوات أدناه: <br>
+1. ثم قم بإعداد مثل تنسيق CSV. <a href=""https://drive.google.com/file/d/1hkLZUDt4pxIqtfPE9k5rhzf4rhK6VJit/view؟usp=sharing"" target=""_blank""> نموذج لملف csv هنا </a> <br>
+2. يمكنك استخدام ""جداول بيانات Google"" لإنشاء وتصدير كفاصل فاصلة. <br>
+<b> ملاحظة: يجب إضافة اسم المدينة المراد استخدامه في ملف CSV الخاص بالموقع بلدة أولاً. </ b>"
+because_noexit_city,اسم المدينة غير موجود في النظام
+item_locations,مدينة موقع العنصر
+city_existed,موجودة بالفعل في النظام.
+township_existed,موجودة بالفعل في النظام.
+err_amenity_name,يرجى تقديم اسم وسائل الراحة
+apply_agent_noti_approve,تهانينا، وافق المسؤول وكيل تطبيق الخاص بك.
+apply_agent_noti_reject,آسف، رفض المشرف وكيل تطبيق الخاص بك. يمكنك محاولة التقدم مرة أخرى.
+pkg_add,أضف الحزمة
+pkg_search,حزمة البحث
+pkg_edit,تحرير الحزمة
+success_pkg_edit,تم تحديث الحزمة بنجاح.
+success_pkg_add,تمت إضافة الحزمة بنجاح.
+success_pkg_delete,تم حذف الحزمة بنجاح.
+title,عنوان
+pkg_info,معلومات العبوة
+post_count,عدد الوظائف
+pkg_select_currency,حدد عملة الحزمة
+err_pkg_title,يرجى تقديم عنوان الحزمة
+err_pkg_price,يرجى تقديم سعر الحزمة
+err_pkg_currency,يرجى تقديم عملة الحزمة
+err_pkg_post_count,يرجى تقديم عدد الوظائف
+err_pkg_exit,اسم الحزمة موجود بالفعل في النظام
+delete_pkg_label,هل تريد حذف الحزمة؟
+pkg_delete_confirm_message,هل أنت متأكد من حذف هذه الحزمة؟
+pkg_yes_all_label,نعم جميعا
+pkg_no_only_label,الحزمة فقط
+err_pkg_bought,آسف
+success_pkg_bought,تم شراء الحزمة بنجاح تم إدراجها.
+is_paid_app,"التطبيق المدفوع على؟ (إذا كان هذا الإعداد ""تشغيل"" ، فهذا التطبيق مقيد بنشر إعلان المستخدم)"
+package_module,الحزم
+is_subcat_subscription,"الملكية عن طريق الاشتراك في؟ (إذا كان هذا الإعداد على ""تشغيل"" ، يجب أن يكون المستخدم قادرًا على الاشتراك في الموقع بواسطة.)"
+err_subcat_subscibe_save,آسف
+err_subcat_subscibe_delete,آسف
+success_subcat_subscribe,ملكية النجاح عن طريق الاشتراك.
+verify_agent,تم التحقق من الوكيل
+rating_view,مشاهدة تصنيف المستخدم
+csv_export,تصدير CSV
+Item_reports,العناصر المبلغ عنها
+report_search,البحث عن عنصر المبلغ
+rating_search,مستخدم تصنيف البحث
+discount_rate_by_percentage,معدل الخصم بالنسبة المئوية
+item_upload_config,Configs تحميل العنصر
+success_item_config_edit,تم تحديث تهيئة تحميل العنصر بنجاح
+success_item_config_add,تمت إضافة تكوين تحميل العنصر بنجاح
+item_config_label,معلومات تكوين تحميل العنصر
+is_block_user,"ميزة الحظر قيد التشغيل؟ (إذا كان هذا الإعداد على ""تشغيل"" ، يمكن للمستخدم منع المستخدمين الآخرين غير المرغوب فيهم من رؤية منشور إعلاناتهم.)"
+open,افتح
+in_progress,في تقدم
+close,أغلق
+demo_data_delete,عرض حذف البيانات
+demo_data_delete_note_label,ملاحظة: سيتم حذف جميع سجلات المستخدمين باستثناء حساب المسؤول.
+success_demo_data_delete,تم حذف البيانات التجريبية بنجاح.
+btn_submit,إرسال
+admin_pwd_label,أدخل كلمة مرور المسؤول
+delete_demo_data,هل أنت متأكد من حذف جميع البيانات التجريبية؟
+admin_confirm,الرجاء إدخال كلمة مرور المسؤول أدناه لتأكيد عمليات حذف البيانات التجريبية هذه.
+err_blank_pwd,يرجى ملء كلمة مرور المسؤول
+err_pwd_invalid,كلمة المرور الخاصة بك غير صحيحة!
+no_messages,لا توجد رسائل مؤخرًا
+no_items,لا توجد عناصر مضافة مؤخرا
+no_users,لا يوجد مستخدمون مضافون مؤخرا
+img_all_delete,سيتم حذف جميع الصور ذات الصلة
+images,الصور
+adpost_history_search,بحث في سجل معاملات نشر الإعلان
+ad_post_transactions_module,سجل معاملات نشر الإعلان
+package_name,اسم الحزمة
+buy_ad_post_transactions,سجل معاملات نشر الإعلان
+adpost_history_view,عرض تاريخ معاملات نشر الإعلان
+car_type_label,نوع السيارة
+car_location_label,موقع السيارة
+err_image,يرجى تقديم تحميل الصورة
+unenought_post_count,لا توجد مشاركات كافية
+btn_back,عودة
+topics_fe_label,مواضيع للواجهة الأمامية
+deeplink_generators,مولدات Deeplink
+btn_deeplink_generator,إنشاء ارتباط عميق
+new_item_upload_label,تم تحميل عنصر جديد تحت
+success_deeplink_generate,تم إنشاء الرابط العميق بنجاح.
+deeplink_generator_label,مولد الارتباط العميق
+in_app_purchases,دفع المشتريات داخل التطبيق
+csv_upload_instruction_propertyby,"الرجاء اتباع هذه الخطوات أدناه: <br>
+1. قم بتحميل الصور لتحميل المجلد يدويًا عبر FTP
+2. ثم قم بإعداد مثل تنسيق CSV. <a href=""https://drive.google.com/file/d/1bOy1apUDZWFbmKk2O6JAJsxHqyOkaUQJ/view؟usp=sharing"" target=""_blank""> نموذج للملف هنا </a> <br>
+3. يمكنك استخدام جداول بيانات Google للإنشاء والتصدير كفاصل فاصلة."
+total_propertyby,إجمالي الممتلكات حسب:
+success_propertyby,الملكية الناجحة عن طريق:
+fail_propertyby,الملكية الفاشلة من قبل:
+miss_propertyby_name,بسبب الخاصية المفقودة بالاسم
+miss_propertyby_img,"بسبب فقدان الخاصية حسب الصورة في مجلد ""التحميلات""."
+miss_propertyby_icon,"بسبب فقدان الخاصية حسب الرمز في مجلد ""التحميلات""."
+db_err,بسبب خطأ في قاعدة البيانات.
+already_existed,موجود بالفعل.
+unauthorize_item_edit,ليس لديك إذن لتحديث عنصر لأنه ليس العنصر الخاص بك.
+not_enought_post_count,لا توجد مشاركات كافية.
+record_not_found,10001 # آسف
+record_no_pagination,10001 # معذرة ، لا مزيد من السجلات في النظام.
+offer_rejected,العرض مرفوض!
+make_offer,تقديم عرض!
+offer_accepted,عرض قبول!
+image,صورة!
+about_app,حول التطبيق
+api_setting,إعداد API
+app_setting,إعداد التطبيق
+fail_push_devices,فشل في دفع جميع أجهزة Android و IOS.
+fail_push_websites,فشل في دفع جميع المواقع.
+push_noti_module,دفع الإخطار
+app_version,الإصدار
+err_title,يرجى تقديم العنوان.
+err_title_len,يجب أن يكون طول العنوان أكبر من 4.
+remove_label,إزالة
+all_label,الجميع
+approved_label,وافق
+reject_label,يرفض
+err_icon,الرجاء تعبئة أيقونة التحميل.
+start_upload,ابدأ التحميل
+cancel_upload,إلغاء الرفع
+add_files,إضافة ملفات
+btn_update,تحديث
+err,خطأ
+btn_start,يبدأ
+btn_close,يغلق
+category,فئة
+added,مضاف
+disable_label,تعطيل
+waiting_approval_label,بانتظار الموافقة
+count,عدد
+demo_dummy_refresh_hour,يرجى العلم أن الخلفية هي وضع تجريبي ، لذا سيتم تحديث كل هذه البيانات الوهمية كل ساعة.
+sys_err_occur,حدث خطأ في النظام. من فضلك تواصل مع مسؤول نظامك.
+registered_user,مستخدم مسجل
+generate_thumbnail_label,سيتم إنشاء الصور المصغرة لكل عنصر. يرجى ملاحظة أن هذه العملية ستستغرق بعض الوقت بناءً على بياناتك.
+max_img_upload_of_item,الحد الأقصى لتحميل الصور للعنصر
+err_max_img_blank_save,يرجى تقديم الحد الأقصى لتحميل الصور للعنصر.
+err_max_img_zero_save,لا يمكن أن يكون الحد الأقصى لتحميل الصور للعنصر صفرًا.
+err_max_img_upload,صورة العنصر بحد أقصى.
+price_format,تنسيق الأسعار
+price_format_desc,"تحتاج إلى التغيير وفقا للتنسيق الذي تحتاجه (على سبيل المثال "",##0.00"" => 2,555.00, ""##0.00"" => 2555.00 ,"".00"" => 2555.00, "",##0"" => 2,555, "",##0.0"" => 2,555.0)"
+date_format,صيغة التاريخ
+google_playstore_url,Google Play Store URL
+apple_appstore_url,URL Apple App Store
+ios_appstore_id,IOS App Store ID
+default_order_time,وقت الطلب الافتراضي (بالدقائق)
+fb_key,مفتاح الفيسبوك
+is_show_token_id,"معرف الرمز المميز على؟ (إذا كان هذا الإعداد ""تشغيل""، فيمكن للمستخدم عرض معرف الرمز المميز في إعداد الإشعار.)"
+is_show_subcategory,"الفئة الفرعية على؟ (إذا كان هذا الإعداد هو ""تشغيل""، يمكن أن تكون الفئة الفرعية قادرة على استخدامها في التطبيق.)"
+is_use_thumbnail_as_placeholder,استخدام الصورة المصغرة كإعداد العنصر النائب قيد التشغيل؟ (إذا كان هذا الإعداد تشغيلا، تحميل الصورة المصغرة أولا، ثم سيقوم لاحقا بتحميل الصورة الكاملة. أو إذا كان هذا الإعداد هو إيقاف ، تحميل الصورة الكاملة مباشرة وبالنسبة لصورة العنصر النائب ، سيستخدم صورة العنصر النائب الافتراضية.)
+admob_section,admob التكوين
+is_show_admob,"إعداد AdMob قيد التشغيل؟ (إذا كان هذا الإعداد ""تشغيلا""، فسيعرض التطبيق الإعلانات.)"
+lang_section,تكوين اللغة
+default_language,اللغة الافتراضية
+exclude_language,اللغات المتوفرة
+exclude_lang_desc,"(إذا كانت اللغة ""تشغيل"" ، فيمكن للمستخدم استخدام هذه اللغة في التطبيق.)"
+default_currency_section,تكوين العملة الافتراضي
+default_razor_currency,العملة الحلاقة الافتراضية
+is_razor_support_multi_currency,"دعم الحلاقة متعددة العملات على؟ (إذا كان هذا الإعداد ""تشغيل""، فيمكنك قبول الدفع البسيط بعملات متعددة في التطبيق.)"
+default_flutter_wave_currency,العملة flutterwave الافتراضية
+login_section,تكوين تسجيل الدخول
+show_facebook_login,"الفيسبوك تسجيل الدخول على؟ (إذا كان هذا الإعداد ""تشغيل""، فيمكن تسجيل دخول المستخدمين باستخدام فيسبوك.)"
+show_google_login,"جوجل تسجيل الدخول على؟ (إذا كان هذا الإعداد ""تشغيل""، فيمكن تسجيل دخول المستخدمين باستخدام Google.)"
+show_phone_login,"تسجيل الدخول عبر الهاتف؟ (إذا كان هذا الإعداد ""تشغيل""، فيمكن تسجيل دخول المستخدمين باستخدام رقم هاتف.)"
+show_main_menu,"القائمة الرئيسية على؟ (إذا كان هذا الإعداد هو ""تشغيل""، يمكن للمستخدم عرض علامة التبويب ""القائمة الرئيسية"" في كل متجر.)"
+show_special_collections,"مجموعات خاصة على؟ (إذا كان هذا الإعداد ""تشغيل""، يمكن للمستخدم عرض علامة التبويب ""العروض الخاصة"" في كل متجر.)"
+show_featured_items,"العناصر المميزة على؟ (إذا كان هذا الإعداد ""تشغيل""، يمكن للمستخدم عرض ""العناصر المميزة"" في كل متجر.)"
+show_best_choice_slider,"أفضل خيار المنزلق على؟ (إذا كان هذا الإعداد ""تشغيل"" عندما يفتح المستخدم التطبيق، فيمكن للمستخدم عرض أفضل مجموعات الخيارات باستخدام طريقة عرض شريط التمرير.)"
+default_loading_limit,حد التحميل الافتراضي
+category_loading_limit,فئة تحميل الحد.
+recent_item_loading_limit,الحد الأخير تحميل الحد
+popular_item_loading_limit,الحد الشعبي تحميل الحد
+discount_item_loading_limit,خصم عنصر تحميل الحد
+feature_item_loading_limit,ميزة الحد من البند
+block_slider_loading_limit,كتلة تحميل منزلق
+follower_item_loading_limit,تابع البند تحميل الحد
+default_limit_section,تكوين الحد الافتراضي
+block_item_loading_limit,حظر تحميل العنصر
+date_format_desc,DD لهذا اليوم، مم لمدة شهر، YYYY لهذا العام، سموه لمدة ساعة، مم لمدة دقيقة، SS للمرة الثانية (على سبيل المثال DD-MM-YYYY HH: MM: SS)
+app_config_info_lable,معلومات إعداد المحمول
+loc_section,تكوين الموقع
+success_mobile_edit,تم تحديث التكوين المحمول بنجاح.
+success_mobile_add,تمت إضافة تكوين المحمول بنجاح.
+err_default_lang,يرجى تقديم اللغة الافتراضية.
+err_default_loading_limit_zero,لا يمكن أن يكون الحد الأقصى للتحميل صفرا.
+err_default_loading_limit,يرجى تقديم حد التحميل الافتراضي.
+err_category_loading_limit,يرجى تقديم حد تحميل الفئة
+err_category_loading_limit_zero,الحد الأقصى لتحميل الفئة لا يمكن أن يكون صفر.
+err_collection_product_loading_limit,يرجى تقديم حد جمع المنتج جمع المنتج.
+err_collection_product_loading_limit_zero,لا يمكن أن يكون الحد الأدنى لتحميل المنتج صفرا.
+err_discount_product_loading_limit,يرجى تقديم حد خصم لتحميل المنتج.
+err_discount_product_loading_limit_zero,لا يمكن أن يكون الحد الأدنى لتحميل المنتج الخصم صفرا.
+err_feature_product_loading_limit,يرجى تقديم حد تحميل المنتج المميز.
+err_feature_product_loading_limit_zero,الحد الأدنى لتحميل المنتج المميز لا يمكن أن يكون صفر.
+err_latest_product_loading_limit,يرجى تقديم أحدث حد التحميل المنتج.
+err_latest_product_loading_limit_zero,لا يمكن أن يكون أحدث حد تحميل المنتج صفرا.
+err_shop_loading_limit,يرجى تقديم حد تحميل المتجر.
+err_shop_loading_limit_zero,الحد الأقصى لتحميل متجر لا يمكن أن يكون صفر.
+err_trending_product_loading_limit,يرجى تقديم الحد التجاري لتحميل المنتج.
+err_trending_product_loading_limit_zero,لا يمكن أن يكون الحد التجاري لتحميل المنتج هو صفر.
+err_default_order_time,يرجى تقديم وقت الطلب الافتراضي.
+err_default_order_time_zero,وقت الطلب الافتراضي (بالدقائق) لا يمكن أن يكون صفر.
+err_google_playstore_url,يرجى تقديم عنوان URL ل Google Play Store.
+err_apple_appstore_url,يرجى تقديم عنوان URL ل Apple App Store.
+err_ios_appstore_id,يرجى تقديم معرف متجر تطبيقات iOS.
+err_price_format,يرجى تقديم تنسيق السعر.
+err_date_format,يرجى تقديم تنسيق التاريخ.
+err_fb_key,يرجى تقديم مفتاح الفيسبوك.
+default_lang_select,حدد اللغة الافتراضية
+mobile_configs,التكوين المحمول
+frontend_configs,Frontend Config.
+faq_pages_label,صفحات أسئلة وأجوبة
+terms_and_conditions_label,الأحكام والشروط
+is_use_googlemap,استخدام خريطة جوجل على؟
+item_detail_view_count_for_ads,عنصر تفاصيل عرض العد للإعلانات
+is_show_ads_in_item_detail,هل تظهر الإعلانات في تفاصيل البند؟
+after_item_count_admob_once,بعد عدد البند admob مرة واحدة
+is_show_admob_inside_list,هل تظهر قائمة ADMOB الداخلية؟
+blue_mark_size,حجم BlueMark
+mile,نطاق الأميال لأقرب العناصر
+video_duration,مدة الفيديو (مللي ثانية)
+image_section,قسم الصورة
+profile_image_size,حجم الصورة حجم الصورة
+upload_image_size,تحميل حجم الصورة
+chat_image_size,حجم الصورة الدردشة
+promote_section,تعزيز القسم
+promote_first_choice_day,تعزيز يوم الاختيار الأول أو اليوم الافتراضي
+promote_second_choice_day,تعزيز يوم الاختيار الثاني
+promote_third_choice_day,تعزيز يوم الاختيار الثالث
+promote_fourth_choice_day,تعزيز يوم الاختيار الرابع
+no_filter_with_location_on_map,لا يوجد مرشح مع الموقع على الخريطة؟
+is_show_owner_info,هل تظهر معلومات المالك؟
+frontend_config_label,معلومات التكوين الأمامي
+map_key,مفتاح الخريطة
+enable_notification,هو تمكين الإخطار؟
+fcm_server_key,مفتاح خادم FCM.
+firebase_web_push_key_pair,Firebase ويب دفع زوج مفتاح
+ad_client,عميل الإعلان
+ad_slot,فتحة الإعلان
+copy_right,حقوق النشر
+google_play_url,Google Play URL.
+app_store_url,متجر URL
+google_setting,إعداد جوجل
+app_store_setting,إعداد متجر التطبيقات
+banner_src,راية SRC.
+google_map,خرائط جوجل
+open_street_map,افتح خريطة الشارع
+image_limit,حد الصورة
+success_frontend_edit,تم تحديث التكوين الأمامي بنجاح.
+success_frontend_add,تمت إضافة التكوين الأمامي بنجاح.
+show_user_profile,إظهار ملف تعريف المستخدم؟
+is_enable_video_setting,تمكين إعداد الفيديو؟
+err_map,يرجى تقديم مفتاح الخريطة
+err_price_format,يرجى تقديم تنسيق الأسعار
+err_fcm_server_key,يرجى تقديم مفتاح خادم FCM
+err_firebase_web_push_key_pair,يرجى تقديم Firebase Web Push Pair
+err_ad_client,يرجى تقديم عميل الإعلان
+err_copy_right,يرجى تقديم نسخة واحدة
+err_google_play_url,يرجى تقديم عنوان URL Google Play
+err_ad_slot,يرجى تقديم فتحة الإعلان
+err_app_store_url,يرجى تقديم عنوان URL متجر التطبيقات
+err_banner_src,يرجى تقديم راية SRC
+err_block_item_loading_limit_zero,كتلة تحميل البند لا يمكن أن يكون صفر
+err_block_item_loading_limit,يرجى تقديم كتلة كتلة البند
+err_follower_item_loading_limit_zero,الحد الأقصى لتحميل البند لا يمكن أن يكون الصفر
+err_follower_item_loading_limit,يرجى تقديم الحد من البند التابع
+err_block_slider_loading_limit_zero,الحد الأقصى لارتفاع شريط التمرير لا يمكن أن يكون صفر
+err_feature_item_loading_limit_zero,ميزة حدة تحميل البند لا يمكن أن يكون صفر
+err_feature_item_loading_limit,يرجى تقديم عنصر تحميل عنصر ميزة
+err_discount_item_loading_limit_zero,الحد الأدنى لتحميل عنصر الخصم لا يمكن أن يكون صفر
+err_discount_item_loading_limit,يرجى تقديم الحد خصم عنصر التحميل
+err_popular_item_loading_limit_zero,الحد الشعبي تحميل الحد لا يمكن أن يكون صفر
+err_popular_item_loading_limit,يرجى تقديم الحد الشعبي لتحميل البند
+err_recent_item_loading_limit_zero,الحد الأخير تحميل الحد لا يمكن أن يكون صفر
+err_recent_item_loading_limit,يرجى تقديم الحد الأخير لتحميل البند
+err_item_detail_view_count_for_ads_zero,البند عرض التفاصيل عرض الإعلانات لا يمكن أن يكون صفر
+err_item_detail_view_count_for_ads,يرجى تقديم البند تفاصيل عرض العد للإعلانات
+err_after_item_count_admob_once_zero,بعد عدد البند admob مرة واحدة لا يمكن أن يكون صفر
+err_after_item_count_admob_once,يرجى تقديم بعد عدد البند admob مرة واحدة
+err_profile_image_size_zero,حجم صورة الملف الشخصي لا يمكن أن يكون صفر
+err_profile_image_size,يرجى تقديم حجم صورة الملف الشخصي
+err_upload_image_size_zero,تحميل حجم الصورة لا يمكن أن يكون صفر
+err_upload_image_size,يرجى تقديم تحميل حجم الصورة
+err_blue_mark_size_zero,حجم BlueMark لا يمكن أن يكون صفر
+err_blue_mark_size,يرجى تقديم حجم Bluemark
+err_video_duration_zero,مدة الفيديو لا يمكن أن تكون صفر
+err_video_duration,يرجى تقديم مدة الفيديو
+err_mile_zero,ميل لا يمكن أن يكون صفر
+err_mile,يرجى تقديم ميل
+err_chat_image_size_zero,حجم صورة الدردشة لا يمكن أن يكون صفر
+err_chat_image_size,يرجى تقديم حجم صورة الدردشة
+ad_post_type,نوع نشر الإعلان
+err_ad_post_type,يرجى تقديم نوع الإعلان المنشور.
+select_ad_post_type,حدد نوع نشر الإعلان
+err_promo_cell_blank_save,يرجى تقديم رقم الفترة الخلوية التي تمت ترقيتها.
+err_promo_cell_zero_save,الفاصل الزمني للخلية التي تمت ترقيتها لا. لا يمكن أن تكون صفرا.
+promo_cell_interval_no,رقم الفاصل الزمني للخلية المُروَّج
+ad_post_section,إعداد نوع نشر الإعلان
+paid_items,العناصر الدعائية
+promo_cell_interval_desc,(ستظهر الإعلانات الدعائية أو إعلانات Google في كل x لا من القائمة.)
+offline_pkg_bought_edit,تم شراء تحرير الحزمة غير المتصلة بالإنترنت
+offline_pkg_bought_search,تم شراء حزمة البحث في وضع عدم الاتصال
+delete_offline_pkg_label,هل تريد حذف حزمة الإعلانات غير المتصلة التي تم شراؤها؟
+offline_pkg_delete_message_label,هل أنت متأكد من حذف الحزمة الإعلانية التي تم شراؤها في وضع عدم الاتصال؟
+offline_pkg_bought_info,معلومات شراء الحزمة غير المتصلة
+bought_user,اشترى المستخدم
+currency_label,عملة
+success_offline_pkg_delete,تم حذف حزمة الإعلانات التي تم شراؤها بلا اتصال بنجاح.
+success_offline_pkg_edit,تم تحديث حزمة الإعلانات التي تم شراؤها بلا اتصال بنجاح.
+success_offline_pkg_add,تمت إضافة حزمة الإعلانات التي تم شراؤها بلا اتصال بنجاح.
+offline_paids,طلب عناصر مدعومة دون اتصال
+offline_ad_package_bought_request,طلب شراء الحزمة الإعلانية دون اتصال
+err_image_limit,يرجى تقديم حد الصورة.
+err_image_limit_zero_save,لا يمكن أن يكون حد الصورة صفرًا.
+err_block_slider_loading_limit,يرجى تقديم حد تحميل شريط التمرير.
+err_item_detail_view_count_for_ads,يرجى تقديم عدد تفاصيل العنصر للإعلانات.
+err_item_detail_view_count_for_ads_zero,لا يمكن أن يكون عدد تفاصيل العنصر للإعلانات صفرًا.
+err_promote_fourth_choice_day,يرجى تقديم الترويج ليوم الاختيار الرابع.
+err_promote_fourth_choice_day_zero,لا يمكن أن تكون الترقية في اليوم الرابع من الاختيار صفرًا.
+err_promote_first_choice_day,يرجى تقديم الترويج ليوم الاختيار الأول.
+err_promote_first_choice_day_zero,لا يمكن أن تكون الترقية في يوم الاختيار الأول صفرًا.
+err_promote_second_choice_day,يرجى تقديم الترويج ليوم الاختيار الثاني.
+err_promote_second_choice_day_zero,لا يمكن أن تكون قيمة يوم الاختيار الثاني للترقية صفرًا.
+err_promote_third_choice_day,يرجى تقديم الترويج ليوم الاختيار الثالث.
+err_promote_third_choice_day_zero,لا يمكن أن تكون الترقية في يوم الاختيار الثالث صفرًا.
+success_image_reorder,تم إعادة ترتيب الصورة بنجاح.
+unauthorize_reorder_img_edit,ليس لديك إذن لإعادة ترتيب هذه الصورة لأنك لست مالكًا.
+no_transaction_yet,لا يمكنك تصدير ملف CSV بسبب عدم وجود معاملة.
+err_key,الرجاء تعبئة المفتاح.
+err_key_len,يجب أن يكون طول المفتاح أكبر من 4.
+org_img_size,حجم الصورة الأصلي
+processing_label,معالجة
+err_photo,من فضلك قم بتحميل الصورة
+posted_by_loading_limit,أرسلت بواسطة تحميل حد
+amenities_loading_limit,وسائل الراحة تحميل حد
+agent_loading_limit,حد تحميل الوكيل
+err_posted_by_loading_limit_zero,لا يمكن أن يكون الحد المنشور عن طريق التحميل صفراً.
+err_posted_by_loading_limit,يرجى تقديم نشر عن طريق حد التحميل.
+err_agent_loading_limit_zero,لا يمكن أن يكون حد تحميل الوكيل صفرًا.
+err_agent_loading_limit,يرجى تقديم حد تحميل الوكيل.
+err_amenities_loading_limit_zero,لا يمكن أن يكون حد تحميل وسائل الراحة صفرًا.
+err_amenities_loading_limit,يرجى تقديم حد تحميل وسائل الراحة.
+package_app_purchase_product_id_label,حزمة في مشتريات التطبيق معرف المنتج
+package_purchase_type_label,حزمة في نوع مشتريات التطبيق
+is_force_login,"هل فرض تسجيل الدخول قيد التشغيل؟ (إذا كان هذا الإعداد ""تشغيل"" ، عند بدء التطبيق ، يجب على المستخدم تسجيل الدخول أولاً.)"
+is_language_config,"هل تكوين اللغة قيد التشغيل؟ (إذا كان هذا الإعداد ""تشغيل"" ، عند بدء التطبيق ، يجب على المستخدم تحديد اللغة.)"
+sold_out_items,العناصر المباعة
+sold_out_items_module,العناصر المباعة
+sold_out_item_view,عرض العناصر المباعة
+price_pkg_desc,(يُستخدم حقل السعر فقط للمدفوعات الأخرى بخلاف الشراء داخل التطبيق (في التطبيق الذي تم شراؤه).)
+currency_pkg_desc,(يُستخدم حقل العملة فقط للمدفوعات الأخرى بخلاف الشراء داخل التطبيق (في التطبيق الذي تم شراؤه).)
+languages,اللغات
+dashboard_label,لوحة القيادة
+item_location_cities,مدن الموقع
+item location cities,مدن الموقع
+item_location_townships,موقع العنصر البلدات
+item location townships,موقع العنصر البلدات
+packages,الحزم
+posted by,منشور من طرف
+property by,الملكية بواسطة
+items,العناصر
+posted_by,منشور من طرف
+property_by,الملكية بواسطة
+item price types,سعر السلعة الأنواع
+item_price_types,سعر السلعة الأنواع
+paid items,تقرير الملكية المدعومة
+blogs,المدونات
+pendings,معلقة
+rejects,يرفض
+disables,يعطل
+agents,تطبيق قوائم الوكيل
+offline paids,طلب عناصر مدعومة دون اتصال
+offline_paids,طلب عناصر مدعومة دون اتصال
+most popular items,العناصر الأكثر شهرة
+most_popular_items,العناصر الأكثر شهرة
+view,رأي
+ratings,التقييمات
+contacts,جهات الاتصال
+item_report,تقرير العنصر
+item report,تقرير العنصر
+transactions,المعاملات
+date,تاريخ
+users,المستخدمون
+notis,لا غير
+deeplink generators,مولدات Deeplink
+api_keys,مفاتيح API
+api keys,مفاتيح API
+appsettings,إعدادات التطبيقات
+versions,إصدارات
+abouts,حول
+item_upload_configs,تكوين تحميل العنصر
+privacy policies,سياسات الخصوصية
+privacy_policies,سياسات الخصوصية
+data_deletion_policies,سياسات حذف البيانات
+data deletion policies,سياسات حذف البيانات
+topic_label,عنوان
+backend_config,تكوين الواجهة الخلفية
+backend config,تكوين الواجهة الخلفية
+paid configs,إعداد الدفع
+offline payments,إعداد المدفوعات دون اتصال
+offline_payments,إعداد المدفوعات دون اتصال
+in app purchase,شراء داخل التطبيق
+in_app_purchase,شراء داخل التطبيق
+module_groups,إعداد اسم القائمة
+module groups,إعداد اسم القائمة
+modules,إعداد اسم القائمة الفرعية

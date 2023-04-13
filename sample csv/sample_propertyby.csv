@@ -1,0 +1,4 @@
+propertyby_name,status,photo_name,icon_name
+Bungalow,1,bungalow.png,bungalow-icon.png
+Yurt,1,yurt.png,yurt-icon.png
+Cottage,0,cottage.png,cottage-icon.png

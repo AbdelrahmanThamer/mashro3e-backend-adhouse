@@ -1,0 +1,1519 @@
+key,valor
+site_name,Ad House Admin Panel
+sidebar_label,Ad House Admin
+slogan,El periódico es un tesoro mayor que las personas que incontables millones de oro
+title_bar_seperator,|
+hello,¡Hola! Soy de archivo de idioma
+added_date,Fecha
+upload_point_label,Subir Point
+success_item_report,Informe artículo ha sido agregado con éxito
+profile_img,Imagen de perfil
+signin,Registrarse
+check_for_detail,Compruebe para más detalle!
+success_delete,Se han eliminado las
+success_save_contact,Gracias por contactarnos. Vamos a llegar de nuevo a usted pronto.
+success_contact_delete,Contacto mensaje se ha eliminado correctamente
+btn_search,Buscar
+btn_add_new,Añadir nuevo
+btn_edit,Editar
+btn_save,Salvar
+btn_save_gallery,Guardar y Ir a la galería
+btn_cancel,Cancelar
+btn_yes,si
+btn_delete,Eliminar
+btn_publish,Publicar
+btn_replace_photo,Vuelva a colocar las fotos
+btn_replace_icon,reemplazar Icono
+back_button,atrás
+lbl_view,Ver
+chat_history_save_success,historial de chat se ha añadido con éxito
+chat_history_update_success,historial de chat se ha actualizado correctamente
+btn_version,Versión
+ver_info,Información de versión
+ver_no_label,versión n
+ver_msg_label,versión Mensaje
+ver_title_label,versión Título
+ver_force_update,Actualización de la versión de la Fuerza?
+ver_need_data,Versión clara necesidad de datos?
+success_version_add,Versión se ha añadido con éxito
+success_version_edit,Versión se ha actualizado correctamente
+dashboard,Tablero
+no,No
+del_cover_photo,Eliminar la foto de portada
+youtube_url,Youtube URL
+del_icon_label,Icono de borrar
+del_icon_confirm,¿Está seguro de que quiere borrar el icono?
+success_upload,La imagen se ha cargado correctamente
+success_img_delete,La imagen se ha eliminado correctamente
+error_login,Correo electrónico y contraseña no coinciden
+err_access,"Lo sentimos, usted no tiene acceso a tomar esta acción"
+err_model,Se ha producido error de base de datos
+err_sys,Se ha producido un error del sistema
+err_upload,Se ha producido error de subida
+wrn_no_data,No hay datos aún
+del_cover_photo_confirm,¿Está seguro de que quiere borrar la foto?
+upload_photo,Subir foto
+no_record,No hay más registros
+invalid_api_key,Clave de API no es válido
+invalid_user_id,Identificación de usuario inválida
+invalid_item_id,ID de elemento no válido
+role,Papel
+user_name,Nombre de usuario
+user_email,Correo electrónico
+user_password,Contraseña
+conf_password,Confirmar contraseña
+user_phone,Teléfono
+allowed_modules,Módulos permitidos
+user_ban,Prohibición
+user_unban,eliminar la prohibición
+user_info,informacion del usuario
+user_list,Lista de usuarios
+user_add,Añadir nuevo usuario
+user_edit,editar usuario
+user_search,la búsqueda de usuarios
+err_dup_email,Dirección de correo electrónico está ya existía en el sistema
+err_dup_name,El nombre ya se existía en el sistema
+err_user_name_blank,Sírvanse proporcionar nombre de usuario
+err_user_name_len,La longitud del nombre de usuario debe ser mayor que 4
+err_user_email_blank,"Por favor, indique la dirección de correo electrónico"
+err_user_email_invalid,"Por favor, indique la dirección de correo electrónico válida"
+err_user_email_exist,Dirección de correo electrónico está ya existía en el sistema
+err_user_pass_blank,"Por favor, proporcione la contraseña"
+err_user_pass_len,La longitud de la contraseña debe ser mayor que 4
+err_user_pass_conf_blank,Sírvanse proporcionar confirmación de contraseña
+err_user_pass_conf_not_match,Contraseña y confirmación de contraseña no coinciden
+err_permission_blank,"Por favor, seleccione qué módulos son capaces de acceder"
+success_user_add,El usuario ha sido agregado con éxito
+success_user_edit,El usuario ha sido actualizado con éxito
+err_user_banned,"En este momento, no se puede iniciar sesión porque su cuenta está prohibida."
+cat_info,Información de la Categoría
+cat_name,nombre de la categoría
+cat_ordering,Orden de la categoría
+cat_img,Categoría de la foto de portada
+cat_icon,Icono Categoría
+cat_search,la búsqueda Categoría
+cat_select,Elija un nombre de categoría
+cat_add,añadir categoría
+cat_edit,Editar categoria
+success_cat_edit,Categoría se ha actualizado correctamente
+success_cat_add,Categoría se ha añadido con éxito
+success_cat_delete,Categoría se ha eliminado correctamente
+err_cat_name,Por favor proporcione nombre de la categoría
+err_cat_len,La longitud del nombre de categoría debe ser mayor que 4
+err_cat_exist,Nombre de categoría ya está existía en el sistema
+delete_cat_label,Eliminar categoría?
+cat_delete_confirm_message,¿Quieres eliminar todos los fondos de pantalla de esa categoría juntos?
+cat_yes_all_message,Sí Todo - Categoría y artículos serán eliminar del sistema.
+cat_no_only_message,Categoría Sólo - Categoría Sólo se eliminarán del sistema.
+cat_yes_all_label,Si todo
+cat_no_only_label,Categoría Sólo
+over_name,Con vistas Nombre
+over_search,Con vistas a la búsqueda
+over_add,Con vistas a añadir
+over_info,Con vistas a la Información
+over_edit,Con vistas a editar
+delete_over_label,Con vistas a eliminar?
+over_delete_confirm_message,¿Quieres eliminar los overlookings?
+over_yes_all_message,Sí Todo - Con vistas eliminará del sistema.
+success_over_edit,Con vistas se ha actualizado correctamente
+success_over_add,Con vistas se ha añadido con éxito
+success_over_delete,Con vistas se ha eliminado correctamente
+err_over_name,"Por favor, indique el nombre con vistas"
+err_over_len,Con vistas a la longitud del nombre debe ser mayor que 4
+err_over_exist,Con vistas a Nombre ya existía en el sistema
+delete_contact_label,Eliminar contacto Mensaje?
+contact_delete_confirm_message,¿Quieres eliminar el mensaje de contacto?
+detail_contact_label,Detalle de contacto Mensaje
+contact_info_label,Información de contacto Mensaje
+about_contact_label,Acerca de contacto Mensaje
+contact_info_label,Información de Contacto Detalle
+contact_name,Nombre del Contacto
+contact_email,Persona de contacto de correo electrónico
+contact_phone,Persona de Contacto Teléfono
+btn_reset,Reiniciar
+reset_password,Restablecer la contraseña
+contact_receive_message,Ha recibido un nuevo mensaje de nosotros contacto.
+nav_profile,Ir al perfil
+nav_backend,Ir al backend
+nav_logout,Cerrar sesión
+total_label,total:
+device_label,Dispositivo
+devices_label,dispositivos
+registered_label,ha sido registrado para Push NOTIFICACI
+noti_info,Notificación de inserción
+noti_message_label,Mensaje
+noti_message_tooltips,Por favor proporcione la messsage para la notificación de inserción.
+noti_send_btn,Enviar notificaciones push
+sorry_no_device,"Lo sentimos, no hay ningún dispositivo registrado para la notificación Push."
+select_cat,selecciona una categoría
+success_noti_add,La notificación se ha añadido con éxito
+success_noti_delete,La notificación se ha eliminado correctamente
+delete_noti_label,Notificación de eliminación?
+noti_yes_message,Notificación sí- eliminará a partir del sistema.
+push_message,Mensaje push
+noti_des_label,Descripción
+noti_img,notificación de fotos
+noti_search,Buscar Noti
+select_cat,selecciona una categoría
+noti_add,Añadir Noti
+app_info_lable,Acerca de Información
+about_title_label,sobre el Título
+description_label,Descripción acerca
+about_email_label,Acerca de correo electrónico
+about_phone_label,Teléfono sobre
+about_website_label,Acerca de Enlace al sitio Web
+about_seo_section,Información SEO
+about_seo_title_label,SEO Título
+about_seo_desc_label,Descripción SEO
+about_seo_keywords_label,SEO
+about_social_section,Información Social
+about_facebook_label,Facebook
+about_gplus_label,Google+
+about_instagram_label,Instagram
+about_youtube_label,Youtube
+about_pinterest_label,Pinterest
+about_twitter_label,Gorjeo
+about_color_section,Sobre el sitio tema de color
+about_theme,Temas disponibles
+success_about_edit,Sobre está actualizado correctamente
+about_ads_analyt,Google Analytic y Anuncios Ajuste
+about_ads_client,anuncios de cliente
+about_ads_slot,anuncios Slot
+about_analyt_track_id,Id Track Analytic
+about_ads_on,Habilitar Google Adsense
+about_analyt_on,Habilitar Google Analytic
+gdpr_label,GDPR contenido
+safety_tips_label,Consejos de seguridad
+about_nav_icon,Icono de navegación
+about_fav_icon,Fav Icon
+about_backend_icon,para backend
+total_users_count_label,Usuarios Registrados
+total_cat_count_label,Total de categorías
+total_wallpaper_count_label,publicar Fondos
+total_contact_label,Total de contacto Mensaje
+total_likes_count_label,Le gusta total Conde
+total_favs_count_label,Total de favoritos Count
+total_comments_count_label,Total de los comentarios
+category_panel_title,Categorías recientes
+recent_news_panel_title,Noticias recientes
+available_inside,Noticias disponibles dentro de esta categoría.
+contact_message,contacto Mensajes
+recent_news_panel_title,Noticias recientes
+user_latest_members,Los últimos usuarios registrados
+success_contact,Su mensaje a salvar con éxito en el sistema.
+file_na,No disponible
+required_platform,Plataforma requerida
+err_noti_register,"Lo sentimos, no hay problema para el registro de notificaciones push"
+success_noti_register,El dispositivo registrado con éxito para notificaciones push.
+success_noti_unregister,El dispositivo no registrado con éxito para notificaciones push.
+err_noti_unregister,"Lo sentimos, existe el problema de la eliminación del registro de notificaciones push"
+success_touch_count,Conde toque con éxito insertado.
+err_touch_count,Problema In Touch cuenta!
+err_user_register,"Lo sentimos, existe el problema de registro de usuario."
+err_user_not_exist,"En este momento, el usuario no es existir en el sistema."
+err_user_not_verify,"Lo sentimos, tu cuenta aún no se verifique."
+err_email_not_send,"Lo sentimos, no hay problema en el envío de correo electrónico."
+err_user_update,"Lo sentimos, no hay problema en la actualización de la información del usuario."
+err_user_password_update,"Lo sentimos, no hay problema en la contraseña del usuario de actualización."
+success_profile_update,Su perfil actualizado correctamente.
+success_email_sent,Correo electrónico se ha enviado.
+success_reset,Contraseña se ha restablecido con éxito
+success_reset_email_sent,Restablecer correo electrónico se envía con éxito
+trending,Tendencias Noticias
+editor_pick,Editor escogida Noticias
+project_name,Nombre del proyecto Tipo
+project_search,Buscar Tipo de Proyecto
+att_add,Añadir nuevo atributo
+add_att_detail,Añadir nueva detallada Atributo
+list_attribute_header,Atributo Lista de cabeceras
+wrn_no_data,No hay datos aún
+project_add,Añadir Tipo de Proyecto
+att_name,Nombre del Atributo
+Prd_search_subcat,Seleccionar nombre Subcategoría
+Prd_search_dis,Seleccionar el tipo de descuento
+project_info,Información del Proyecto Tipo
+project_edit,Editar Tipo de Proyecto
+delete_project_label,Eliminar Tipo de Proyecto?
+att_info,información de atributos
+project_delete_confirm_message,¿Quieres eliminar los tipos de proyectos?
+project_yes_all_message,Sí Todo - Tipo de Proyecto eliminará del sistema.
+success_project_edit,Tipo de proyecto se ha actualizado correctamente
+success_project_add,Tipo de proyecto se ha añadido con éxito
+success_project_delete,Tipo de Proyecto se ha eliminado correctamente
+err_project_name,Por favor proporcione nombre del tipo de proyecto
+success_upload,La imagen se ha actualizado correctamente
+err_project_len,La longitud del Nombre del proyecto Tipo debe ser mayor que 4
+err_project_exist,Tipo de proyecto Nombre ya existía en el sistema
+item_description_label,Descripción
+deal_option_id_label,Opción acuerdo
+meet_up_label,Reunirse
+mailing_or_delivery_label,Envío o entrega
+brand_label,Marca
+price,Precio
+itm_title_label,Título
+itm_business_mode,Es Shop?
+itm_show_shop,(Si el programa de usuario puede pedir más de una)
+itm_is_sold_out,¿Está agotado?
+location_info_label,Información sobre la ubicación
+itm_address_label,Habla a
+itm_lat_label,Latitud
+itm_lng_label,Longitud
+itm_select_price,Seleccionar Precio Tipo
+itm_select_currency,Seleccione la moneda de coches
+status_label,Estado
+select_status_label,seleccione Estado
+find_location_label,Encuentra tipo y ubicación de Google API
+itm_select_deal_option,Seleccionar la opción de reparto
+itm_steering_position,puesto de gobierno
+itm_no_of_owner,No del propietario
+itm_trim_name_label,Nombre del ajuste
+itm_vehicle_id_label,ID del vehículo
+itm_mileage_label,Kilometraje
+itm_select_fuel,Seleccionar Tipos de Combustible
+itm_price_unit_label,Precio unitario
+itm_max_passengers_label,Pasajeros Max
+itm_no_of_doors_label,No De Puertas
+itm_select_build,Seleccionar el tipo de construcción
+itm_select_seller_type,Seleccionar el tipo de vendedor
+itm_select_color,Seleccionar el color
+itm_licence_status,Es Estado de la licencia?
+plat_number_label,Número de placa
+engine_power_label,Potencia del motor
+year_label,Año
+itm_select_transmission,Seleccionar nombre de Transmisión
+price_type_label,Precio Tipo
+license_expiration_date_label,Fecha de caducidad de licencia
+other_info_lable,Otros
+confi_info_lable,Configuración
+performance_info_lable,Actuación
+licence_info_lable,Licencia
+price_info_lable,Precio
+api_info,Ajuste API
+api_title,Ajuste API
+api_title_tooltips,Nombre API
+api_order_by,Por fin
+btn_save,Salvar
+btn_cancel,Cancelar
+success_api_edit,Actualizado exitosamente
+about_gallery,Galería
+wallpaper_edit,Editar fondo de pantalla
+categories_label,categorías
+messages_label,mensajes
+categories_label,categorías
+view_all_label,Ver todo
+divider_label,:
+wallpapers_label,fondos de pantalla
+users_label,usuarios
+app_setting,Información de configuración de aplicación
+apikey_info,Información Clave API
+key_label,Llave
+success_apikey_edit,API Key se actualiza correctamente
+success_apikey_add,se agrega correctamente clave de API
+earn_point_label,Gane Point
+currency_symbol,Símbolo de moneda
+currency_short_form,Short Form moneda
+currency_add,Agregar moneda
+success_currency_edit,La moneda se ha actualizado correctamente
+success_currency_add,La moneda se ha añadido con éxito
+success_currency_delete,La moneda se ha eliminado correctamente
+delete_currency_label,Moneda de borrado?
+currency_delete_confirm_message,¿Quieres eliminar de divisas?
+currency_search,búsqueda de divisas
+currency_edit,Cambiar la moneda
+err_currency_name,"Por favor, indique el nombre de moneda"
+err_currency_len,La longitud del nombre de divisas debe ser mayor que 4
+err_currency_exist,Nombre de la moneda ya está existía en el sistema
+color_color,Color
+select_type,Seleccione tipo
+from_point,Desde el punto:
+to_point,Apuntar :
+order_by,Por fin:
+select_order,Elije el orden
+push_noti_sending_title,El envío de notificaciones push
+no_device_label,Hay dispositivos no registrados todavía.
+delete_color_label,Eliminar el color?
+color_delete_confirm_message,¿Desea desvincular todos los fondos de pantalla en virtud de que el color eliminado?
+upload_icon,Icono Categoría
+about_upload_icon,Subir Icono
+fav_upload_icon,Fav Icon
+sidebar_upload_icon,backend Logo
+btn_upload,Subir
+not_enough_point,"Lo sentimos, el punto no es suficiente."
+view_count,Ver cuentas
+earn_point_label,Obtuvo punto
+download_count,Conteo de la descarga
+rating_count,Conde calificación
+terms_label,Términos y Condiciones
+about_img,Sobre la foto de portada
+massupload_info,Fondo de pantalla de masas subir usando Archivo CSV
+select_csv_file,Seleccione Archivo CSV
+something_wrong_upload,Ocurre algo en los datos subidos.
+pls_upload_csv,"Por favor, sube el archivo CSV."
+sample_csv_format,CSV de ejemplo está aquí: https://www.dropbox.com/s/oheyivxfgdlk129/sample.csv?dl=0
+csv_upload_instruction,"Por favor, siga los pasos a continuación: <br>
+1. Cargar imágenes subidas a la carpeta de forma manual a través de FTP. <br>
+2. Subir miniatura imágenes de archivos / carpetas miniatura manully a través de FTP. <br>
+3. A continuación, se preparan como formato CSV. Aquí la muestra: http://bit.ly/2UvCjRp <br>
+4. Necesidad de seguir esas reglas. Aquí: http://bit.ly/2T1Tjgp <br>
+5. Puede utilizar Google Hoja para crear y exportación como separador de coma. <br>
+6. recomendada es de alrededor de 100 registros a la CSV. "";"
+noti_sent_fail,Dejar de enviar notificación de inserción
+noti_sent_success,Se ha enviado correctamente a la notificación de inserción
+reject_message_1,¡Lo siento! Fondo de pantalla rechazado (
+reject_message_2,)
+approve_message_1,Enhorabuena! Aprobado fondo de pantalla (
+approve_message_2,)
+uploaded_user,Subida del usuario
+select_multiple_images,"Por favor, seleccione múltiples imágenes de fondo."
+multiple_images_message,"Nota: Sus imágenes de fondo se pueden guardar los mismos para el nombre, categoría, de modo, color, tipo, etiqueta, Point, publicar, recomendar."
+multiple_wallpaper_title,"Fondos de pantalla múltiple Subir ""Modo, color, tipo, etiqueta, Point, publicar, recomendar."""
+delete_user_label,Eliminar usuario registrado?
+user_delete_confirm_message,¿Quieres eliminar todo el Usuario Registrado?
+user_yes_all_label,Si todo
+user_no_only_label,Categoría Sólo
+success_user_delete,Usuario registrado se ha eliminado correctamente
+credit,Crédito
+price_info,Información Precio
+price_name,Precio Nombre
+price_edit,Editar Precio
+price_add,Agregar precio
+price_search,Buscar Precio
+delete_price_label,Precio de borrado?
+price_delete_confirm_message,¿Quieres eliminar precio?
+err_price_name,"Por favor, indique el nombre de precio"
+err_price_len,La longitud de Precio Nombre debe ser mayor que 4
+err_price_exist,Precio Nombre ya existía en el sistema
+success_price_edit,El precio ha sido actualizado correctamente
+success_price_add,El precio ha sido agregado con éxito
+success_price_delete,El precio ha sido eliminado correctamente
+type_info,Información del artículo Tipo
+type_name,Escribe un nombre
+type_edit,Editar Tipo
+type_add,Añadir Tipo
+type_search,Tipo de búsqueda
+delete_type_label,Eliminar Tipo?
+type_delete_confirm_message,¿Quieres eliminar el Tipo?
+err_type_name,"Por favor, indique el nombre de tipo"
+err_type_len,La longitud del Nombre de tipo debe ser mayor que 4
+err_type_exist,Tipo Nombre ya existía en el sistema
+success_type_edit,Tipo se ha actualizado correctamente
+success_type_add,Tipo se ha añadido con éxito
+success_type_delete,Tipo se ha eliminado correctamente
+project_name,Nombre del proyecto Tipo
+project_search,Buscar Tipo de Proyecto
+project_add,Añadir Tipo de Proyecto
+project_info,Información del Proyecto Tipo
+project_edit,Editar Tipo de Proyecto
+delete_project_label,Eliminar Tipo de Proyecto?
+project_delete_confirm_message,¿Quieres eliminar los tipos de proyectos?
+project_yes_all_message,Sí Todo - Tipo de Proyecto eliminará del sistema.
+success_project_edit,Tipo de proyecto se ha actualizado correctamente
+success_project_add,Tipo de proyecto se ha añadido con éxito
+success_project_delete,Tipo de Proyecto se ha eliminado correctamente
+err_project_name,Por favor proporcione nombre del tipo de proyecto
+err_project_len,La longitud del Nombre del proyecto Tipo debe ser mayor que 4
+post_name,Publicado por nombre
+post_search,Por Search Ha publicado
+post_add,Agregar Publicado Por
+post_info,Publicado por la información
+post_edit,Editar Publicado Por
+delete_post_label,Eliminar Publicado Por?
+post_delete_confirm_message,¿Quieres eliminar el publicado por el camino?
+post_yes_all_message,Sí Todo - Enviado por borrará del sistema.
+success_post_edit,Publicado por que se ha actualizado correctamente
+success_post_add,Publicado por ha sido agregado con éxito
+success_post_delete,Publicado por que se ha eliminado correctamente
+err_post_name,Sírvanse proporcionar publicado por su nombre
+err_post_exist,Publicado por nombre ya está existían en el sistema
+err_post_len,La longitud de Publicado por nombre debe ser mayor que 4
+available_name,disponibilidad Nombre
+available_search,Buscar disponibilidad
+available_add,Agregar disponibilidad
+available_info,disponibilidad de información
+available_edit,Editar disponibilidad
+delete_available_label,Disponibilidad de borrado?
+available_delete_confirm_message,¿Quieres eliminar la disponibilidad?
+available_yes_all_message,Sí Todo - Disponibilidad eliminará del sistema.
+success_available_edit,La disponibilidad ha sido actualizado correctamente
+success_available_add,La disponibilidad ha sido agregado con éxito
+success_available_delete,La disponibilidad ha sido eliminado correctamente
+err_available_name,"Por favor, indique el nombre disponibilidad"
+err_available_len,La longitud de disponibilidad Nombre debe ser mayor que 4
+err_available_exist,Disponibilidad Nombre existía ya está en el sistema
+ban_info,Inicio Información de la bandera
+ban_name,Imagen del Anuncio Nombre
+ban_edit,Editar Inicio Banner
+ban_add,Añadir Inicio Banner
+ban_image,imagen del Anuncio
+ban_search,Buscar Inicio Banner
+delete_ban_label,Eliminar Inicio Banner?
+ban_delete_confirm_message,¿Quieres eliminar Inicio Banner Tipo?
+err_ban_name,Por favor proporcione el hogar nombre de bandera
+err_ban_len,La longitud de Inicio Banner Nombre debe ser mayor que 4
+err_ban_exist,Inicio Banner Nombre existía ya está en el sistema
+success_ban_edit,Inicio Banner se ha actualizado correctamente
+success_ban_add,Inicio Banner se ha añadido con éxito
+success_ban_delete,Inicio Banner se ha eliminado correctamente
+location_info,Información sobre la ubicación de artículos
+location_name,Nombre del lugar
+location_edit,Editar ubicación
+location_add,Añadir lugar
+location_search,Buscar Localización
+delete_location_label,Eliminar la ubicación?
+location_delete_confirm_message,¿Quieres eliminar la ubicación?
+err_location_name,"Por favor, indique el nombre Localización"
+err_location_len,La longitud del Nombre de la ubicación debe ser mayor que 4
+err_location_exist,Lugar Nombre existía ya está en el sistema
+success_location_edit,Ubicación se ha actualizado correctamente
+success_location_add,Ubicación ha sido agregado con éxito
+success_location_delete,Ubicación se ha eliminado correctamente
+blog_add,Agregar Blog
+blog_info,Información acerca del blog
+blog_name,Nombre del Blog
+blog_desc,Descripción del blog
+blog_edit,Editar Blogs
+success_blog_add,Los blogs se ha añadido con éxito
+success_blog_edit,Los blogs se ha actualizado correctamente
+err_dup_name,El nombre ya se existía en el sistema
+err_blog_exist,Nombre del blog ya está existía en el sistema
+delete_blog_label,Blog de borrado?
+blog_delete_confirm_message,Está seguro que desea borrar este blog?
+success_blog_delete,Los blogs se ha eliminado correctamente
+err_blog_len,La longitud del blog de nombre debe ser mayor que 4
+err_blog_name,"Por favor, indique el nombre del blog"
+blog_search,Búsqueda de blogs
+blog_gallery,Blog Galería
+btn_disable,Inhabilitar
+report_edit,Informe Editar elemento
+total_category_count_label,Total de categorías
+total_sub_cat_count_label,Total de las subcategorías
+total_blog_count_label,total de Blogs
+total_contact_count_label,Total de contacto Mensaje
+popular_item,Artículo más popular
+item_report,artículo reportado
+items_label,Los productos añadidos recientemente
+item_img,Item Image
+popular_item_info,Información populares de artículos
+popular_item_view,Ver artículo populares
+app_setting_lable,Información de configuración de aplicación
+app_lat_label,Latitud
+app_lng_label,Longitud
+location_info_label,Información sobre la ubicación
+err_chat_history_not_exist,Ningún dato encontrado en el historial de chat
+accept_update_success,Aceptar la oferta se ha actualizado correctamente
+err_accept_update,"Lo sentimos, hay un problema en aceptar la oferta"
+count_update_success,Restablecer recuento se ha actualizado correctamente
+err_count_update,"Lo sentimos, hay un problema en el recuento de reposición"
+price_update_success,El precio ha sido actualizado correctamente
+err_price_update,"Lo sentimos, hay un problema en el precio"
+err_accept_offer,"Lo sentimos, no se podía aceptar la oferta de nuevo."
+overall_rating,Clasificación
+user_is_verify_do_forgot_password,Su cuenta se verificó así que por favor se olvidó la contraseña.
+user_view,Ver usuario
+user_address,Habla a
+user_city,Ciudad
+about_me,Sobre mí
+verify_type,verificar Tipo
+follower_count,Conteo de seguidores
+following_count,Después de Conde
+user_profile,Foto de perfil
+email_verify,Correo electrónico Confirme
+facebook_verify,Verificar Facebook
+google_verify,google Verify
+phone_verify,teléfono Verify
+condition_name,Nombre de la condición
+cond_search,Condiciones de búsqueda
+condition_add,Agregar condición
+condition_info,Información del artículo Condición
+cond_edit,Editar condición
+delete_condition_label,Eliminar Condición?
+condition_delete_confirm_message,¿Quieres eliminar las condiciones?
+condition_yes_all_message,Sí Todo - Condición y artículos serán eliminar del sistema.
+success_condition_edit,Condición se ha actualizado correctamente
+success_condition_add,Condición ha sido agregado con éxito
+success_condition_delete,Condición se ha eliminado correctamente
+err_condition_name,"Por favor, indique el nombre condición"
+err_condition_len,La longitud del Nombre de condición debe ser mayor que 4
+err_condition_exist,Condición El nombre ya se existía en el sistema
+cat_module,categorías
+overlooking_module,Con vista a
+contact_module,Contacte con nosotros Mensaje
+sys_user_module,Los usuarios del sistema
+register_user_module,Usuarios Registrados
+about_module,Acerca de la aplicación
+push_noti_module,Notificación de inserción
+analytics_module,Analítica
+export_db_module,Base de datos de exportación
+app_setting_module,Ajuste APP
+property_module,Propiedad
+popular_property_module,El más popular de la propiedad
+projecttype_module,Tipos de proyecto
+postedby_module,Publicado por
+apikey_module,claves de la aPI
+apis_module,Ajuste API
+availability_module,Disponibilidad
+rating_module,La mayoría de los usuarios de Calificación
+sellertype_module,Tipo de vendedor
+transmissions_module,transmisiones
+banners_module,Inicio Banner
+item_conditions_module,Condición
+version_module,Version de aplicacion
+item_currency_module,Moneda
+item_price_module,Precio
+item_type_module,Tipo
+blog_module,Blog
+item_reports_module,propiedad reportada
+app_setting_module,Configuración de aplicaciones
+location_module,Ubicación
+language_module,idiomas
+lang_name,Nombre del lenguaje
+btn_active,Activo
+lang_string,idioma cadena
+lang_add,Agregar idioma
+lang_info,informaciones idioma
+lang_symbol,Símbolo
+lang_search,Buscar idioma
+lang_edit,Editar idioma
+success_lang_edit,El lenguaje ha sido actualizado correctamente
+success_lang_add,Se ha añadido con éxito
+success_lang_delete,El lenguaje ha sido eliminado correctamente
+err_lang_name,"Por favor, proporcione el nombre del idioma"
+err_lang_len,La longitud del nombre de idioma debe ser mayor que 4
+err_lang_exist,Idioma El nombre ya se existía en el sistema
+delete_lang_label,Eliminar Idioma?
+lang_delete_confirm_message,¿Quieres eliminar toda la cadena de bajo que juntos idioma?
+lang_yes_all_label,Si todo
+lang_no_only_label,Sólo idioma
+lang_yes_all_message,Sí Todo - Lengua y artículos serán eliminar del sistema.
+language_id,Idioma
+lang_string_key,Llave
+lang_string_value,Valor
+lang_string_info,Información de la cadena de Idiomas
+select_language,idioma seleccionado
+btn_import,Importar
+csv_symbol_link,archivo CSV de ejemplo aquí
+lang_str_search,Búsqueda Idioma Cadena
+success_langstr_import,Idioma Cadena éxito archivo CSV subidos
+lang_str_add,Agregar idioma de cuerdas
+lang_str_edit,Editar cadena Idioma
+lang_active,Activo
+lang_deactive,Desactivar
+success_lang_str_edit,Idioma cadena se ha actualizado correctamente
+success_lang_str_add,Idioma cadena se ha añadido con éxito
+err_lang_str_name,Sírvanse proporcionar lengua nombre de cadena
+err_lang_str_len,La longitud de la cadena de lenguaje debe ser superior a 4
+err_lang_str_exist,Idioma cadena está ya existía en el sistema
+lang_title,Eliminado Idioma?
+lang_warning,No se puede eliminar el lenguaje activo.
+btn_ok,Okay
+list_lang_label,idiomas
+list_lang_str_label,series de idioma
+err_lang_symbol,Sírvanse proporcionar símbolo de idioma
+entry_group,Entrada
+reports_group,Informes
+user_mang_group,Gestión de usuarios
+miscellaneous_group,Diverso
+setting_group,Ajuste
+ple_sub_cat_name,Por favor Subcategoría Nombre
+ple_highlight_info,Por favor resaltar la información
+forget_pwd,¿Se te olvidó tu contraseña?
+remove_label,Eliminar
+paid_item_module,Informe de propiedad patrocinada
+his_info,Información historia
+start_date_label,Fecha de inicio
+end_date_label,Fecha final
+amount_label,Cantidad
+payment_method_label,Método de pago
+progress_label,Progreso
+finished_label,Terminado
+not_yet_start_label,Todavía no iniciar
+today_label,Hoy
+backend_setting_module,Ajuste backend
+backend_config_info_lable,Información de configuración de back-end
+sender_name_label,Nombre del remitente
+receive_email_label,Recibir correo
+sender_email_label,Correo electrónico del remitente
+img_section,Sección imagen
+fcm_api_key_label,clave de API FCM
+backend_login_img,Iniciar sesión Imagen de fondo backend
+backend_logo,backend Logo
+backend_fav_icon,Backend Fav Ico
+upload_backend_logo,Subir backend Logo
+upload_fav_icon,Subir Fav Icon
+upload_login_img,Subir sesión de fotos
+transaction_module,transacciones Historia
+history_search,Historia de la búsqueda Transacciones
+trans_history_info,Transacciones Información Historia
+today_label,Hoy
+second_ago,segundos
+minute_ago,minutos
+hour_ago,horas
+day_ago,dias
+week_ago,semanas
+month_ago,meses
+year_ago,años
+decade_ago,décadas
+just_now_label,Justo ahora
+ago_label,hace
+user_acc_reg_label,Nuevo registro de cuentas de usuario
+user_register_success_but_email_not_send,"el éxito del registro del usuario, pero no enviar correo electrónico"
+pwd_reset_label,Restablecimiento de contraseña
+hi_label,Hola
+pwd_reset_link,"Por favor, haga clic en el siguiente enlace para restablecer la contraseña"
+reset_link_label,Restablecer la contraseña
+best_regards_label,Atentamente
+new_user_acc,Su nueva cuenta de usuario ha sido creada. Bienvenido a Ad House. Por favor verifica con el código a continuación para activar su cuenta.
+verify_code_label,código verificado
+hi_admin_label,Hola administración
+name_label,Nombre
+email_label,Correo electrónico
+phone_label,Teléfono
+msg_label,Mensaje
+verify_code_sent,Código de verificación ha sido enviada.
+user_id_required,Se requiere ID de usuario.
+invalid_login_user_id,ID de usuario no es válido.
+already_accept_user,El usuario ha sido aceptada.
+sender_id_required,Se requiere ID de remitente
+success_delete,Se han eliminado las.
+success_cat_request,Su solicitud éxito.
+err_cat_request,"Lo sentimos, no su solicitud de éxito."
+err_chat_history_save,"Lo sentimos, no su historial de chat capaz de guardar."
+accept_reset_success,Su solicitud de chat con éxito.
+error_delete_chat_history,"En este momento, el historial de chat no es capaz de eliminar."
+success_delete_chat_history,Su historial de chat eliminado con éxito.
+err_soldout_reset,"En este momento, no se puede descansar vendido."
+soldout_reset_success,Su restablecimiento ha sido el éxito.
+err_item_report,"Lo sentimos, usted no es capaz de informe de partidas."
+token_already_exist,"Lo sentimos, dispositivo de señal ya existe."
+err_in_noti_read,"Lo sentimos, la notificación no es capaz de leer."
+success_noti_send,La notificación se ha enviado correctamente.
+error_noti_send,"Lo sentimos, la notificación no es capaz de enviar."
+invalid_code,"Lo sentimos, el código no es válido."
+forget_pwd,¿Se te olvidó tu contraseña?
+remove_label,Eliminar
+btn_no,No
+ple_model_name,Por favor Nombre del modelo
+err_paid_item_history,Su anuncio aún no se termina por lo que no es capaz de modificar.
+paid_config_module,Configuración de pago
+currency_symbol_label,"El símbolo de moneda (por ejemplo, $)"
+paypal_env_label,paypal Medio Ambiente
+paypal_merchant_label,PayPal ID del comerciante
+paypal_pub_label,Paypal clave pública
+paypal_pri_label,Paypal clave privada
+paypal_enabled_label,Está habilitado Paypal?
+stripe_publishable_key,publicable clave
+stripe_secret_key,Llave secreta
+stripe_enable_label,Se habilita la raya de pago?
+stripe_label,[Opción 2]: El pago con la raya
+paypal_label,[Opción 1]: El pago con Paypal Habilitado
+day_label,Día
+paid_config_info_lable,A cargo de Información Config
+paid_currrency_setting,Símbolo monetario Ajuste
+paid_paypal_setting,Ajuste paypal
+paid_stripe_setting,Ajuste de la raya
+overlooking_label,Con vista a
+itm_select_overlooking,Con vista a
+list_product_nav,Propiedad
+prd_add,Agregar propiedad
+att_add,Añadir nuevo atributo
+add_att_detail,Añadir nueva detallada Atributo
+list_attribute_header,Atributo Lista de cabeceras
+wrn_no_data,No hay datos aún
+item_name,Nombre de la propiedad
+att_name,Nombre del Atributo
+Prd_search_cat,Elija un nombre de categoría
+Prd_search_dis,Seleccionar el tipo de descuento
+product_gallery,Galería de propiedad
+prd_info,Información de la propiedad
+rec_prd_info,Recientemente Añadidos Propiedades
+att_info,información de atributos
+prd_desc,descripción de propiedad
+prd_high_info,Información Resalte la propiedad
+prd_edit,Editar la propiedad
+prd_code,Código de propiedad
+success_prd_add,Propiedad ha sido agregado con éxito
+success_prd_edit,Propiedad ha sido actualizado correctamente
+success_upload,La imagen se ha actualizado correctamente
+delete_prd_label,Eliminar la propiedad?
+prd_yes_all_message,"Cuando eliminar esta propiedad, se eliminará todas las categorías sub relacionados y categoría también. Así que, ¿todavía quiere eliminar"
+success_prd_delete,Propiedad se ha eliminado correctamente
+prd_search,Buscador de inmuebles
+err_item_name,"Por favor, indique el nombre de propiedad"
+err_item_len,La longitud del Nombre debe ser mayor que 4
+err_item_exist,Nombre de la propiedad ya está existía en el sistema
+item_gallery,Galería de propiedad
+condition_of_item,Condición de la Propiedad
+item_description_label,Descripción
+deal_option_id_label,Opción acuerdo
+meet_up_label,Reunirse
+mailing_or_delivery_label,Envío o entrega
+brand_label,Marca
+price,Precio
+itm_title_label,Título
+itm_business_mode,Es Shop?
+itm_show_shop,(Si el programa de usuario puede pedir más de una)
+itm_is_sold_out,¿Está agotado?
+location_info_label,Información sobre la ubicación
+itm_address_label,Habla a
+itm_lat_label,Latitud
+itm_lng_label,Longitud
+itm_select_price,Seleccionar Precio Tipo
+itm_select_type,Seleccionar el tipo de propiedad
+itm_select_currency,Seleccione la propiedad de divisas
+status_label,Estado
+select_status_label,seleccione Estado
+itm_select_location,Seleccione Ubicación de la Propiedad
+find_location_label,Encuentra tipo y ubicación de Google API
+itm_select_condition_of_item,Seleccione Estado de la propiedad
+itm_select_deal_option,Seleccionar la opción de reparto
+configuration_info_label,Configuración
+price_info_label,Precio
+floor_number_label,Numero de piso
+facing_number_label,Frente a
+postedby_info_label,Publicado por
+overlooking_label,Con vista a
+property_status_label,Estado de la propiedad
+others_label,Otros
+amenities_info_label,Comodidades
+area_info_label,Zona
+super_build_up_area_label,Súper acumulan Área
+build_up_area_label,Forma de Área
+carpet_area_label,área de la alfombra
+land_size_label,Tamaño del terreno
+rooms_label,Habitaciones
+bath_rooms_label,Las habitaciones de baño
+rooms_confi_label,Configuración habitaciones
+price_unit_label,Precio unitario
+price_note_label,Precio Note
+is_nagotiable_label,Es negociable?
+floor_level_label,Nivel del suelo
+facing_label,Frente a
+itm_select_posted,Publicado por
+itm_select_overlooking,Con vista a
+property_age_label,propiedad Edad
+currently_tenanted_label,Actualmente Alquilado
+itm_select_availabel,Disponibilidad
+availabel_for_label,Disponible para
+tenure_label,Tenencia
+construction_status_label,Estado de la construcción
+possession_date_label,Posesión
+itm_select_project,Tipo de proyecto
+property_owner_label,Dueño de propiedad
+developer_label,Desarrollador
+furnishing_label,Mobiliario
+flooring_label,Piso
+water_source_label,Fuente de agua
+width_of_facing_road_label,Anchura de la carretera frente
+parking_label,Estacionamiento
+power_backup_label,reserva de la energía
+itm_is_lift,Es Ascensor?
+itm_is_park,Es el parque?
+itm_is_gymnasium,es decir Gimnasio
+itm_is_swimming_pool,Es Swimming Pool?
+itm_is_security_personnel,¿Es el personal de seguridad?
+itm_is_gas_pipeline,Es Gasoducto?
+itm_is_club_house,Es el Club House?
+itm_is_wheelchair_friendly,De sillas de ruedas?
+itm_is_pet_friendly,Es adecuado para mascotas?
+itm_is_maintenance_staff,¿Es el personal de mantenimiento?
+item_property_module,propiedad reportada
+success_backend_edit,Backend ajuste se ha actualizado correctamente
+smtp_section,Configuración SMTP
+smtp_host_label,Host SMTP
+smtp_host_placeholder,por ejemplo: ssl: //smtp.hostmail.com
+smtp_port_label,Número de puerto SMTP
+smtp_enable,Habilitar SMTP?
+smtp_user_label,usuario SMTP
+smtp_pass_label,Contraseña SMTP
+cannot_deactive,"Lo sentimos, no es capaz de desactivar."
+err_symbol_exist,símbolo de idioma está ya existía en el sistema.
+success_paid_edit,configuraciones pagados se ha actualizado con éxito
+apple_verify,Apple Verify
+policy_info,Información de política de privacidad
+content_label,Contenido
+privacy_policy_module,Política de privacidad
+success_policy_edit,La política de privacidad ha sido actualizada con éxito
+success_policy_add,La política de privacidad ha sido agregada exitosamente
+razor_label,[Opción 5]: pago con maquinilla de afeitar
+razor_key_label,Llave de afeitar
+razor_enabled_label,¿Está habilitada la maquinilla de afeitar?
+btn_promote,Promover
+prd_paid_info,Artículo pagado Información
+app_is_approval_enabled,"Aprobación del Sistema de encendido? (Si este ajuste está en 'On', cuando la actualización de usuario nuevo tema, lo necesitan para aprobar o rechazar desde super administrador.)"""
+approval_group,Aprobación
+pending_items_module,Items pendientes
+reject_items_module,Rechazar elementos
+disable_items_module,Deshabilitar elementos
+select_status,Seleccionar estado?
+pending_edit,Editar elemento pendiente
+approve_message_1,Enhorabuena! Artículo aprobado (
+approve_message_2,)
+disable_message_1,¡Perdón! Deshabilitar el artículo (
+disable_message_2,)
+reject_message_1,¡Perdón! Rechazar el artículo (
+reject_message_2,)
+reject_edit,Editar elementos de rechazo
+disable_edit,Editar elementos deshabilitados
+noti_sent_fail,Error al enviar notificación push
+noti_sent_success,Se envió correctamente una notificación push a
+success_app_setting_edit,A configuração do aplicativo foi atualizada com sucesso
+module_group_lang,Configuración del nombre del menú
+group_name,Nombre del grupo de módulos
+group_icon,Icono de grupo de módulos
+group_lang_key,Clave de idioma
+group_info,Información del grupo de módulos
+group_search,Grupo de módulos de búsqueda
+group_add,Agregar grupo de módulos
+success_group_edit,El grupo de módulos ha sido editado con éxito
+success_group_add,El grupo de módulos ha sido agregado exitosamente
+group_edit,Editar grupo de módulos
+success_group_delete,El grupo de módulos se ha eliminado correctamente
+err_group_name,Por favor proporcione el grupo de módulos
+err_group_len,La longitud del nombre del grupo de módulos debe ser mayor que 4
+err_group_exist,El nombre del grupo del módulo ya existe
+module_lang,Configuración del nombre del submenú
+module_desc,Descripción
+module_ordering,Ordenar
+module_add,Agregar módulo
+module_info,Información del módulo
+module_name,Nombre del módulo
+is_show_on_menu,¿Mostrar en el menú?
+module_lang_key,Clave de idioma del módulo
+module_select_group,Seleccionar grupo de módulos
+delete_module_label,¿Eliminar módulo?
+module_delete_confirm_message,¿Estás segura de eliminar este módulo?
+delete_group_label,¿Eliminar grupo de módulos?
+group_delete_confirm_message,¿Estás segura de eliminar este grupo de módulos?
+err_module_name,Por favor proporcione el nombre del módulo
+err_module_len,La longitud del nombre del módulo debe ser mayor que 4
+err_module_exist,El nombre del módulo ya existe
+module_search,Nombre del módulo de búsqueda
+success_module_edit,El módulo ha sido actualizado con éxito.
+success_module_add,El módulo se ha agregado con éxito.
+module_edit,Editar módulo
+success_module_delete,El módulo se ha eliminado con éxito.
+approval_yes_all_message,¿Estás segura de eliminar?
+err_user_phone_exist,El teléfono del usuario ya existe.
+delete_system_user_label,¿Eliminar usuario del sistema?
+system_user_delete_confirm_message,¿Está seguro de eliminar este usuario del sistema?
+loc_ordering,Ordenar
+record_not_found,10001 ## Lo sentimos registro no encontrado.
+no_record_pagination,10002 ## Lo sentimos no hay más registros en el sistema.
+offline_paid_module,Solicitud de artículos patrocinados sin conexión
+offline_paid_prd_info,Información de artículos pagados sin conexión
+offline_paid_edit,Editar artículo pagado sin conexión
+offline_setting,Configuración sin conexión
+offline_label,[Opción 4]: pago sin conexión
+offline_message,Mensaje
+offline_enabled_label,¿Está habilitada fuera de línea?
+prd_paid_info,Información del artículo pagado
+offline_info,Información de pago fuera de línea
+offline_title_label,Título de pago sin conexión
+offline_description_label,Descripción del pago sin conexión
+offline_icon,Icono de pago sin conexión
+offline_search,Buscar pago sin conexión
+offline_add,Agregar pago sin conexión
+offline_edit,Editar pago sin conexión
+success_offline_edit,El pago sin conexión se ha actualizado correctamente
+success_offline_add,El pago sin conexión se ha agregado correctamente
+success_offline_delete,El pago sin conexión se ha eliminado correctamente
+err_offline_name,Proporcione el título del pago fuera de línea
+err_offline_len,La duración del título de pago fuera de línea debe ser superior a 4
+err_offline_exist,El título de Paymen sin conexión ya existe en el sistema
+delete_offline_label,¿Eliminar pago sin conexión?
+offline_delete_confirm_message,¿Quieres eliminar todo el pago fuera de línea?
+offline_yes_all_label,si
+offline_no_only_label,Cancelar
+offline_payment,Configuración de pago fuera de línea
+offline_paid_module,Solicitud de artículos patrocinados sin conexión
+img_configuration,Configuración de imagen
+land_width_label,Ancho del paisaje
+potrait_height_label,Altura vertical
+square_label,Altura Cuadrada
+err_lat,Sírvanse proporcionar Latitud
+err_lng,Sírvanse proporcionar Longitud
+err_lat_lng,Su latitud y longitud no debe ser 0.0
+offline_yes_all_message,¿Desea eliminar todo el pago fuera de línea?
+email_verification_enabled,Verificación de correo electrónico habilitada? (Si este ajuste está en 'On' cuando el registro de usuario mediante el uso de correo electrónico que enviará el código de verificación de usuario de correo electrónico registrada.)
+user_auto_approved,Su nueva cuenta de usuario ha sido creada. Bienvenido al anuncio Casas.
+user_not_able_delete,"Lo siento, esto es cuenta del sistema por lo que no es capaz de desactivar."
+success_block,El usuario ha sido bloqueado con éxito.
+success_unblock,El usuario ha sido desbloqueado con éxito.
+no_user_unblock,No es posible desbloquear el usuario.
+unable_to_report,No puede informar del tema ya que es su propio elemento.
+success_logout,El usuario ha sido exitosamente cierre de sesión.
+already_report,Usted ya ha informado a este artículo.
+lat_invlaid,La latitud debe estar entre -90 y 90 grados ambos inclusive.
+lng_invlaid,La longitud debe ser de entre -180 y 180 grados inclusive.
+paystack_setting,Ajuste Paystack
+paystack_label,[Opción 5]: El pago con Paystack
+paystack_key_label,Paystack clave
+paystack_enabled_label,Está habilitado Paystack?
+purchase_add,Añadir en el producto de la aplicación
+in_app_purchase_info,Em Informações App Compradas
+app_purchase_product_id_label,Na App Purchase Produtos Id
+purchase_description_label,Descrição
+purchase_type_label,Tipo
+err_purchase_description,Forneça Descrição
+success_purchase_edit,Na App compradas foi atualizado com sucesso.
+delete_purchase_label,Excluir na App comprado?
+purchase_yes_all_message,Você quer apagar Na App comprado?
+success_purchase_delete,Na App Comprado foi excluído com sucesso.
+in_app_purchased_setting,Na App Ajuste Comprada
+purchase_key_label,Você pode fazer o pagamento com no aplicativo comprado
+purchase_enabled_label,Compra é ativado?
+err_purchase_id,Sírvanse proporcionar Compra Id.
+btn_duplicate,Duplicada
+success_prd_duplicate_add,El artículo duplicado se ha agregado correctamente
+dyn_link_key_label,Clave de enlace dinámico
+dyn_link_url_label,URL de enlace dinámico
+dyn_link_package_name_label,Nombre del paquete de vinculación dinámica
+dyn_link_domain_label,Dominio de enlace dinámico
+dyn_link_deep_url_label,URL de enlace profundo
+prd_dynamic_link_label,Enlace dinámico del producto
+dyn_link_package_name_ios,Dinámica que une el nombre del paquete IOS
+dyn_link_ios_appstore_id,Enlazado dinámico IOS AppStore Id
+property_by,Propiedad por
+property_add,Agregar propiedad por
+property_search,Buscar propiedad por
+property_info,Propiedad por información
+property_name,Propiedad por nombre
+success_property_add,La propiedad por se ha agregado correctamente.
+success_property_edit,La propiedad de se ha editado correctamente.
+success_property_delete,La propiedad de se ha eliminado correctamente.
+err_property_name,Proporcione la propiedad por nombre.
+err_property_len,La longitud de Property By Name debe ser mayor que 4.
+err_property_exist,Property By Name ya existía.
+delete_property_label,¿Eliminar propiedad por?
+property_delete_confirm_message,¿Quiere eliminar la propiedad por?
+property_edit,Editar propiedad por
+amenities,Comodidades
+amenity_name,Nombre de la amenidad
+amenity_add,Agregar amenidad
+amenity_img,Imagen de comodidades
+amenities_info_label,Información de comodidades
+success_amenity_add,La amenidad se ha agregado con éxito.
+success_amenity_edit,La amenidad se ha editado correctamente.
+delete_amenity_label,¿Eliminar servicios?
+amenity_delete_confirm_message,¿Quieres eliminar la amenidad?
+amenity_edit,Editar comodidades
+amenity_search,Búsqueda de comodidades
+success_amenity_delete,La amenidad se ha eliminado correctamente.
+color,Color
+purchase_search,Buscar en la compra de la aplicación
+purchase_edit,Editar en la compra de la aplicación
+item_property_name,Propiedad por nombre
+area_label,Zona
+configuration_label,Configuración
+itm_select_property,Seleccionar propiedad por
+is_negotiable,Negociable
+itm_select_location_township,Seleccione la ubicación de la propiedad Township
+itm_select_location_city,Seleccione la ciudad de ubicación de la propiedad
+itm_select_postedby,Seleccione Publicado por
+Prd_search_location_township,Seleccione la ubicación de la propiedad Township
+data_delete_info,Identidad Datos política de eliminación
+success_data_deletion_add,Datos política de eliminación se ha añadido con éxito.
+success_data_deletion_edit,Datos política de eliminación se ha actualizado correctamente.
+data_deletion_module,Política de eliminación de datos
+data_deletion_policy_url,Datos política de eliminación de URL
+Data_deletions_policies,Políticas de eliminación de datos
+Privacy_policies,Políticas de privacidad
+privacy_policy_url,Privacidad Política de URL
+total_property_count_label,Total de Propiedad Por
+total_postedby_count_label,Por Publicado total
+propertyby_img,Propiedad Por foto
+propertyby_icon,Por la propiedad Icon
+floor_label,No se baja
+owner_name,Nombre del dueño
+owner_of_item,Propietario del artículo
+payment_status,Estado de pago
+waiting_for_payment_label,A la espera de la aprobación
+paid_label,Pagado
+paid_reject_label,Rechazar
+select_payment_status_label,Seleccione Estado de pago de etiquetas
+is_sub_location,"En sub Ubicación? (Si este ajuste está en ""On"" cuando el usuario abre la aplicación de la necesidad del usuario para elegir la ubicación secundaria (municipio) en la ubicación (ciudad))"
+thumbnail_generators_lng,Thumbnail Generator
+btn_create_thumbnail,Miniatura (1x2x3x) Generador
+thumb_1x_label,Tamaño de la imagen en miniatura 1x
+thumb_2x_label,Tamaño de la imagen en miniatura 2x
+thumb_3x_label,Tamaño de la imagen en miniatura 3x
+image_lists_lng,Listas de imágenes
+img_name,Nombre de la imágen
+success_img_create,"Miniatura 2x, 3x ha sido creado con éxito."
+img_not_exist,La imagen no ha existido en la carpeta de carga.
+recommended_size_img,Tamaño recomendado: 400 x 200
+recommended_size_icon,Tamaño recomendado: 200 x 200
+user_social_info_override,"Ignorar la información social del usuario? Si está marcado, la información social del usuario se sobrescribirá cuando inicie sesión con (Google, Facebook, teléfono y Apple, etc.)"
+applied_date_label,Fecha aplicada (DD / MM / YYAY)
+pending,Pendiente
+verified,Verificado
+rejected,Rechazado
+all,Todos
+currency_info,Información sobre moneda
+is_default,Defecto
+success_agent_edit,El agente se ha actualizado con éxito
+agent_edit,Agente de edición
+cannot_apply_agent,¡Perdón! No puedes aplicar agente
+app_token_label,Token de la aplicación (para la foto de perfil de Facebook)
+already_sold_out,El artículo ya se ha agotado y no puede hacer la oferta.
+is_show_email,Emitir un correo electrónico
+is_show_phone,Mostrar teléfono
+township_success_edit,El municipio se ha actualizado con éxito.
+already_agent,No puede aplicar el agente de nuevo porque ya es un agente.
+agent_pending,"Todavía está pendiente, por favor espere la aprobación del administrador."
+success_agent_delete,El agente ha sido borrado con éxito.
+cannot_sold_out,No puedes vender el artículo.
+cannot_chat,No puedes chatear este artículo.
+you_bought,Tú compraste
+item_video_label,Video del artículo
+item_video_icon_label,Icono de video de artículo
+price_cannot_zero,El precio no puede ser cero
+err_price,Por favor proporcione el precio del artículo
+deeplink_note_label,"Nota: la configuración anterior ha generado un enlace dinámico del elemento. Si desea regenerar con la nueva configuración, cambie la configuración aquí:"
+go_to_be_setting_label,Ir a la configuración de back-end
+thumb2x_3x_settting_off,"Crear miniatura 2x, la configuración 3x está desactivada."
+create_thumb2x_folder,"La carpeta Thumbnail2x no existe, créela primero. O puede desactivar la configuración thumb2x,3x."
+create_thumb3x_folder,"La carpeta Thumbnail3x no existe, créela primero. O puede desactivar la configuración thumb2x,3x."
+thumb2x_already_existed,La imagen ya existía en la carpeta thumbnail2x.
+thumb3x_already_existed,La imagen ya existía en la carpeta thumbnail3x.
+thumb2x_thumb3x_already_existed,La imagen ya existe en las carpetas thumbnail2x y thumbnail3x.
+thumbnail_generator_label,Generará las imágenes en miniatura para cada elemento. Tenga en cuenta que este proceso llevará algún tiempo en función de sus datos.
+is_thumb2x_3x_generate,"Miniatura 2x,3x ¿Configuración activada? (si esta configuración está ""activada"" cuando carga la imagen, generará una miniatura 2x y una miniatura 3x automáticamente)."
+err_currency_symbol,"Por favor, proporcione símbolo de moneda."
+Item_currency,Moneda del artículo
+Image_lists,Listas de imágenes
+Thumbnail_generators,Generadores de imágenes
+demo_login,Iniciar sesión con una cuenta demo
+need_accept_offer,Este artículo ha sido necesario para aceptar la oferta primero.
+need_make_offer,Este artículo ha sido necesario para hacer una oferta primero.
+already_accept_offer,Este artículo ya está hecho una oferta.
+already_reject_offer,Este artículo ya ha sido rechazado la oferta.
+already_rejected,Este artículo ya ha sido rechazado la oferta.
+cannot_default,"Lo sentimos, no es posible cancelar la configuración predeterminada."
+cannot_unpublish,"Lo sentimos, no es posible anular la publicación en la moneda predeterminada."
+approve_item,Aprobar artículo
+disable_item,Deshabilitar artículo
+reject_item,Rechazar artículo
+receive_rating_from,Recibir calificación de
+verify_email_not_send_user,No logran enviar verificar el correo electrónico a
+no_need_bought,"No es necesario comprar publicaciones de anuncios, usted es un usuario del sistema."
+csv_upload_instruction_city,"Siga los pasos a continuación: <br>
+1. Luego prepárese como formato CSV. <a href=""https://drive.google.com/file/d/1g3T6H2cdZsGS0UlHji6_BkP_JIa1YBCy/view?usp=sharing"" target=""_blank""> archivo csv de muestra aquí </a> <br>
+2. Puede usar Google Sheet para crear y exportar como separador de coma."
+pls_upload_csv,Cargue un archivo CSV.
+something_wrong_upload,Algo mal sube el archivo
+err_paid_adpost_history,Lo siento
+total_city,Ciudad de ubicación total:
+success_total_city,Ciudad de ubicación exitosa:
+fail_total_city,Ciudad de ubicación fallida:
+total_township,Municipio de ubicación total:
+success_total_township,Municipio de ubicación exitosa:
+fail_total_township,Municipio de ubicación fallida:
+beacause_db_err,por un error en la base de datos.
+because_miss_city,debido a la ciudad de ubicación faltante
+because_miss_township,debido a que falta el municipio de ubicación
+csv_upload_instruction_township,"Siga los pasos a continuación: <br>
+1. Luego prepárese como formato CSV. <a href=""https://drive.google.com/file/d/1hkLZUDt4pxIqtfPE9k5rhzf4rhK6VJit/view?usp=sharing"" target=""_blank""> archivo csv de muestra aquí </a> <br>
+2. Puede usar Google Sheet para crear y exportar como separador de coma.<br>
+<b>Nota: Primero se debe agregar el nombre de la ciudad que se usará en el archivo CSV del municipio de ubicación.</b>"
+because_noexit_city,el nombre de la ciudad no existe en el sistema
+item_locations,Ciudad de ubicación del artículo
+city_existed,ya existía en el sistema.
+township_existed,ya existía en el sistema.
+err_amenity_name,Proporcione el nombre del servicio
+apply_agent_noti_approve,"Felicitaciones, el administrador aprobó su agente de aplicaciones."
+apply_agent_noti_reject,"Lo sentimos, el administrador rechazó su agente de aplicaciones. Puedes intentarlo de nuevo."
+pkg_add,Agregar paquete
+pkg_search,Buscar paquete
+pkg_edit,Editar paquete
+success_pkg_edit,El paquete se ha actualizado correctamente.
+success_pkg_add,El paquete se ha agregado correctamente.
+success_pkg_delete,El paquete se ha eliminado correctamente.
+title,Título
+pkg_info,Información del paquete
+post_count,Recuento de entradas
+pkg_select_currency,Seleccione la moneda del paquete
+err_pkg_title,Proporcione el título del paquete
+err_pkg_price,Indique el precio del paquete
+err_pkg_currency,Proporcione la moneda del paquete
+err_pkg_post_count,"Por favor, proporcione el número de recuento de publicaciones."
+err_pkg_exit,El nombre del paquete ya existe en el sistema
+delete_pkg_label,Delete Package?
+pkg_delete_confirm_message,¿Estás segura de eliminar este paquete?
+pkg_yes_all_label,Si todo
+pkg_no_only_label,Solo paquete
+err_pkg_bought,Lo siento
+success_pkg_bought,Paquete comprado insertado correctamente.
+is_paid_app,"¿Aplicación de pago activada? (Si esta configuración está ""Activada"", esta aplicación es una publicación de anuncios de usuario limitada)"
+package_module,Paquetes
+is_subcat_subscription,"Propiedad por suscripción en? (Si esta configuración está ""activada"", el usuario debe poder suscribirse a la propiedad antes de)."
+err_subcat_subscibe_save,Lo siento
+err_subcat_subscibe_delete,Lo siento
+success_subcat_subscribe,Propiedad de éxito por suscripción.
+verify_agent,Agente verificada
+rating_view,Ver calificación de usuario
+csv_export,Exportación CSV
+Item_reports,Artículos reportados
+report_search,Buscar elemento denunciado
+rating_search,Usuario de calificación de búsqueda
+discount_rate_by_percentage,Tasa de descuento por porcentaje
+item_upload_config,Configuraciones de carga de elementos
+success_item_config_edit,La configuración de carga de elementos se ha actualizado correctamente
+success_item_config_add,La configuración de carga de elementos se ha agregado con éxito
+item_config_label,Información de configuración de carga de elementos
+is_block_user,"¿Función de bloqueo activada? (Si esta configuración está ""activada"", el usuario puede bloquear a otros usuarios no deseados para que no vean su publicación de anuncios)."
+open,abierto
+in_progress,en curso
+close,cerca
+demo_data_delete,Eliminación de datos de demostración
+demo_data_delete_note_label,Nota: Se eliminarán todos los registros de 'usuarios' excepto la cuenta de administrador.
+success_demo_data_delete,Los datos de demostración se han eliminado correctamente.
+btn_submit,Entregar
+admin_pwd_label,Ingrese la contraseña de administrador
+delete_demo_data,¿Estás segura de eliminar todos los datos de demostración?
+admin_confirm,Ingrese su contraseña de administrador a continuación para confirmar estas eliminaciones de datos de demostración.
+err_blank_pwd,Por favor complete la contraseña de administrador
+err_pwd_invalid,¡Su contraseña es inválida!
+no_messages,No hay mensajes recientes
+no_items,No hay elementos agregados recientemente
+no_users,No hay usuarios agregados recientemente
+img_all_delete,Todas las imágenes relacionadas serán eliminadas.
+images,Imágenes
+adpost_history_search,Historial de transacciones de publicación de anuncios de búsqueda
+ad_post_transactions_module,Historial de transacciones de publicación de anuncios
+package_name,Nombre del paquete
+buy_ad_post_transactions,Historial de transacciones de publicación de anuncios
+adpost_history_view,Ver historial de transacciones de publicación de anuncios
+car_type_label,Tipo de carro
+car_location_label,Ubicación del coche
+err_image,Proporcione una carga de imagen
+unenought_post_count,No hay suficientes publicaciones
+btn_back,atrás
+topics_fe_label,Temas para frontend
+deeplink_generators,Generadores de enlaces profundos
+btn_deeplink_generator,Generar enlace profundo
+new_item_upload_label,Nuevo artículo subido bajo
+success_deeplink_generate,Deeplink se ha generado con éxito.
+deeplink_generator_label,Generador de enlaces profundos
+in_app_purchases,Pago en la aplicación comprada
+csv_upload_instruction_propertyby,"Siga los pasos a continuación:<br>
+1. Cargue imágenes en la carpeta de carga manualmente a través de FTP.<br>
+2. Luego, prepárelo como el formato CSV. <a href=""https://drive.google.com/file/d/1bOy1apUDZWFbmKk2O6JAJsxHqyOkaUQJ/view?usp=sharing"" target=""_blank"">Archivo de muestra aquí</a><br>
+3. Puede usar Google Sheet para crear y exportar como separador de coma."
+total_propertyby,Propiedad total por:
+success_propertyby,Propiedad exitosa por:
+fail_propertyby,Propiedad fallida por:
+miss_propertyby_name,por falta de propiedad por nombre
+miss_propertyby_img,debido a la propiedad que falta por imagen en la carpeta 'cargas'.
+miss_propertyby_icon,debido a la propiedad faltante por icono en la carpeta 'cargas'.
+db_err,por un error en la base de datos.
+already_existed,ya existio.
+unauthorize_item_edit,No tiene permiso para actualizar un artículo porque no es su artículo.
+not_enought_post_count,No hay suficientes publicaciones.
+record_not_found,10001#Lo siento
+record_no_pagination,"10001#Lo siento, no hay más registros en el sistema."
+offer_rejected,¡Oferta rechazada!
+make_offer,¡Hacer oferta!
+offer_accepted,¡Oferta aceptada!
+image,¡Imagen!
+about_app,Acerca de la aplicación
+api_setting,Configuración de la API
+app_setting,Configuración de la aplicación
+fail_push_devices,No se pueden enviar todos los dispositivos Android e IOS.
+fail_push_websites,No se pueden enviar todos los sitios web.
+push_noti_module,Notificación de inserción
+app_version,Versión
+err_title,Proporcione el título.
+err_title_len,La longitud del título debe ser mayor a 4.
+remove_label,Eliminar
+all_label,Todos
+approved_label,Aprobado
+reject_label,Rechazar
+err_icon,"Por favor, rellene el icono de carga."
+start_upload,Iniciar la subida
+cancel_upload,Cancelar carga
+add_files,Agregar archivos
+btn_update,Actualizar
+err,Error
+btn_start,Comienzo
+btn_close,Cerrar
+category,Categoría
+added,Agregado
+disable_label,Desactivar
+waiting_approval_label,A la espera de la aprobación
+count,Contar
+demo_dummy_refresh_hour,"Tenga en cuenta que el backend es un modo de demostración, por lo que todos esos datos ficticios se actualizarán cada hora."
+sys_err_occur,"Se produjo un error del sistema. Por favor, póngase en contacto con el administrador del sistema."
+registered_user,usuario registrado
+generate_thumbnail_label,Generará las imágenes en miniatura para cada elemento. Tenga en cuenta que este proceso llevará algún tiempo en función de sus datos.
+max_img_upload_of_item,Carga máxima de imágenes del artículo
+err_max_img_blank_save,Proporcione la carga máxima de imágenes del elemento.
+err_max_img_zero_save,La carga máxima de imágenes del artículo no puede ser cero.
+err_max_img_upload,La imagen del artículo es máxima.
+price_format,Formato de precio
+price_format_desc,"Debe cambiar según el formato que necesite (p. ej., "",##0,00"" => 2555,00, ""##0,00"" => 2555,00,"".00"" => 2555,00, "",##0"" => 2555, "",##0.0"" => 2,555.0)"
+date_format,Formato de fecha
+google_playstore_url,URL de la tienda de Google Play
+apple_appstore_url,URL de la tienda de aplicaciones de Apple
+ios_appstore_id,IOS App Store ID
+default_order_time,Tiempo de pedido predeterminado (minutos)
+fb_key,Clave de facebook
+is_show_token_id,"¿Identificación de token activada? (Si esta configuración está ""activada"", el usuario puede ver la identificación del token en la configuración de notificación)."
+is_show_subcategory,"¿Subcategoría activada? (Si esta configuración está ""Activada"", la subcategoría se puede usar en la aplicación)."
+is_use_thumbnail_as_placeholder,"Usar miniatura como ajuste de marcador de posición ¿Activado? (Si esta configuración está ""Activada"", cargará primero la imagen en miniatura y luego cargará la imagen completa. O si esta configuración está ""Desactivada"", cargará la imagen completa directamente y para la imagen de marcador de posición utilizará la imagen de marcador de posición predeterminada)."
+admob_section,Configuración de AdMob
+is_show_admob,"AdMob Setting On? (If this setting is ""On"", the application will display ads.)"
+lang_section,Configuración de idioma
+default_language,Idioma predeterminado
+exclude_language,Idiomas Disponibles
+exclude_lang_desc,"(Si el idioma está ""Activado"", el usuario puede usar este idioma en la aplicación)."
+default_currency_section,Configuración de moneda predeterminada
+default_razor_currency,Moneda Razor predeterminada
+is_razor_support_multi_currency,"Razor ¿Soporte multidivisa activado? (Si esta configuración está ""activada"", puede aceptar el pago de la maquinilla de afeitar en varias monedas en la aplicación)."
+default_flutter_wave_currency,Moneda predeterminada de Flutterwave
+login_section,Configuración de inicio de sesión
+show_facebook_login,"Inicio de sesión de Facebook ¿Encendido? (Si esta configuración está ""Activada"", los usuarios pueden iniciar sesión con Facebook)."
+show_google_login,"Inicio de sesión de Google activado? (Si esta configuración está ""activada"", los usuarios pueden iniciar sesión con Google)."
+show_phone_login,"¿Iniciar sesión en el teléfono? (Si esta configuración está ""activada"", los usuarios pueden iniciar sesión con un número de teléfono)."
+show_main_menu,"¿Menú principal activado? (Si esta configuración está ""Activada"", el usuario puede ver la pestaña ""Menú principal"" en cada tienda)."
+show_special_collections,"¿Colecciones especiales activadas? (Si esta configuración está ""activada"", el usuario puede ver la pestaña ""Ofertas especiales"" en cada tienda)."
+show_featured_items,"¿Artículos destacados activados? (Si esta configuración está ""Activada"", el usuario puede ver los ""Artículos destacados"" en cada tienda)."
+show_best_choice_slider,"Control deslizante Mejor elección activado? (Si esta configuración está ""activada"" cuando el usuario abre la aplicación, el usuario puede ver las mejores colecciones de opciones con la vista deslizante)."
+default_loading_limit,Límite de carga predeterminado
+category_loading_limit,Categoría Límite de carga
+recent_item_loading_limit,Límite de carga reciente
+popular_item_loading_limit,Artículo popular Límite de carga
+discount_item_loading_limit,Artículo de descuento Límite de carga
+feature_item_loading_limit,Límite de carga del elemento de la función
+block_slider_loading_limit,Bloquear el límite de carga del control deslizante
+follower_item_loading_limit,Límite de carga del artículo de seguidor
+default_limit_section,Configuración de límite predeterminado
+block_item_loading_limit,Límite de carga del elemento de bloque
+date_format_desc,"DD para el día, MM para el mes, Yyyy para el año, HH por la hora, mm por minuto, SS para el segundo (por ejemplo, DD-MM-YYYY HH: MM: SS)"
+app_config_info_lable,Información de configuración móvil
+loc_section,Configuración de ubicación
+success_mobile_edit,La configuración móvil se ha actualizado correctamente.
+success_mobile_add,La configuración móvil se ha agregado correctamente.
+err_default_lang,"Por favor, proporcione el idioma predeterminado."
+err_default_loading_limit_zero,El límite de carga predeterminado no puede ser cero.
+err_default_loading_limit,"Por favor, proporcione el límite de carga predeterminado."
+err_category_loading_limit,"Por favor, proporcione el límite de carga de categoría"
+err_category_loading_limit_zero,El límite de carga de la categoría no puede ser cero.
+err_collection_product_loading_limit,"Por favor, proporcione el límite de carga del producto de recogida."
+err_collection_product_loading_limit_zero,El límite de carga del producto de colección no puede ser cero.
+err_discount_product_loading_limit,"Por favor, proporcione el límite de carga de productos de descuento."
+err_discount_product_loading_limit_zero,El límite de carga del producto de descuento no puede ser cero.
+err_feature_product_loading_limit,"Por favor, proporcione el límite de carga de productos destacados."
+err_feature_product_loading_limit_zero,El límite de carga de productos destacados no puede ser cero.
+err_latest_product_loading_limit,"Por favor, proporcione el último límite de carga del producto."
+err_latest_product_loading_limit_zero,El último límite de carga del producto no puede ser cero.
+err_shop_loading_limit,"Por favor, proporcione el límite de carga de la tienda."
+err_shop_loading_limit_zero,El límite de carga de la tienda no puede ser cero.
+err_trending_product_loading_limit,"Por favor, proporcione el límite de carga de productos de tendencia."
+err_trending_product_loading_limit_zero,El límite de carga de productos de tendencia no puede ser cero.
+err_default_order_time,"Por favor, proporcione el tiempo de pedido predeterminado."
+err_default_order_time_zero,El tiempo de pedido predeterminado (minutos) no puede ser cero.
+err_google_playstore_url,"Por favor, proporcione la URL de Google Play Store."
+err_apple_appstore_url,"Por favor, proporcione la URL de la tienda de aplicaciones de Apple."
+err_ios_appstore_id,"Por favor, proporcione un ID de la App Store ID."
+err_price_format,"Por favor, proporcione el formato de precio."
+err_date_format,"Por favor, proporcione el formato de fecha."
+err_fb_key,"Por favor, proporcione una clave de Facebook."
+default_lang_select,Seleccione Idioma predeterminado
+mobile_configs,Configuración móvil
+frontend_configs,Configuración frontend
+faq_pages_label,Preguntas frecuentes Páginas
+terms_and_conditions_label,Términos y condiciones
+is_use_googlemap,Usa Google Map ON?
+item_detail_view_count_for_ads,Artículo detalle Ver cuenta para anuncios
+is_show_ads_in_item_detail,¿Mostrar anuncios en detalle del artículo?
+after_item_count_admob_once,Después del artículo cuenta cuenta el admob una vez
+is_show_admob_inside_list,¿Muestra la lista interior de Admob?
+blue_mark_size,Tamaño de BlueMark
+mile,Rango de millas para artículos más cercanos
+video_duration,Duración del video (milisegundos)
+image_section,Sección de imagen
+profile_image_size,Tamaño de la imagen del perfil
+upload_image_size,Sube el tamaño de la imagen
+chat_image_size,Tamaño de la imagen de chat
+promote_section,Promover la sección
+promote_first_choice_day,Promover el primer día de la elección o el día predeterminado
+promote_second_choice_day,Promover el segundo día de elección
+promote_third_choice_day,Promover el Día de la Tercera Opción
+promote_fourth_choice_day,Promover el cuarto día de elección
+no_filter_with_location_on_map,¿No hay filtro con la ubicación en el mapa?
+is_show_owner_info,Es mostrar información del propietario?
+frontend_config_label,Información de configuración frontend
+map_key,Llave del mapa
+enable_notification,¿Es la notificación de habilitación?
+fcm_server_key,Tecla del servidor FCM
+firebase_web_push_key_pair,Firebase Web Push Tecle par
+ad_client,Cliente publicitario
+ad_slot,Ranura ad
+copy_right,Copiar a la derecha
+google_play_url,URL de Google Play
+app_store_url,URL de la tienda de aplicaciones
+google_setting,Configuración de Google
+app_store_setting,Configuración de la tienda de aplicaciones
+banner_src,Banner SRC
+google_map,Mapa de Google
+open_street_map,Mapa de calle abierto
+image_limit,Límite de imagen
+success_frontend_edit,La configuración de Frontend se ha actualizado con éxito.
+success_frontend_add,La configuración de Frontend se ha agregado correctamente.
+show_user_profile,Mostrar perfil de usuario?
+is_enable_video_setting,¿Habilitar la configuración de video?
+err_map,Por favor proporcione la clave de mapa
+err_price_format,Por favor proporcione formato de precio
+err_fcm_server_key,"Por favor, proporcione la clave del servidor FCM"
+err_firebase_web_push_key_pair,"Por favor, proporcione FIRBASE WEB PUSH PUSH CHEQUES"
+err_ad_client,Por favor proporcione el cliente AD
+err_copy_right,Por favor proporcione copia a la derecha
+err_google_play_url,Por favor proporcione la URL de Google Play
+err_ad_slot,Por favor proporcione la ranura AD
+err_app_store_url,"Por favor, proporcione la URL de la tienda de aplicaciones"
+err_banner_src,Por favor proporcione Banner SRC
+err_block_item_loading_limit_zero,El límite de carga del elemento de bloque no puede ser cero
+err_block_item_loading_limit,"Por favor, proporcione la carga del elemento de bloque"
+err_follower_item_loading_limit_zero,El límite de carga del artículo de seguidor no puede ser cero
+err_follower_item_loading_limit,"Por favor, proporcione el límite de carga del artículo de seguidor"
+err_block_slider_loading_limit_zero,El límite de carga del control deslizante de bloque no puede ser cero
+err_feature_item_loading_limit_zero,El límite de carga del elemento de la función no puede ser cero
+err_feature_item_loading_limit,"Por favor, proporcione el límite de carga del elemento de la función"
+err_discount_item_loading_limit_zero,El límite de carga del elemento de descuento no puede ser cero
+err_discount_item_loading_limit,"Por favor, proporcione el límite de carga del artículo de descuento"
+err_popular_item_loading_limit_zero,El límite de carga del artículo popular no puede ser cero
+err_popular_item_loading_limit,"Por favor, proporcione el límite de carga del artículo popular"
+err_recent_item_loading_limit_zero,El límite de carga reciente del artículo no puede ser cero
+err_recent_item_loading_limit,"Por favor, proporcione el límite de carga reciente del artículo"
+err_item_detail_view_count_for_ads_zero,Artículo Detalle Ver el recuento para anuncios no puede ser cero
+err_item_detail_view_count_for_ads,POR FAVOR PROPORCIONAR EL ARTÍCULO DE DETALLO CON CUENTA PARA ADS
+err_after_item_count_admob_once_zero,"Después de la cuenta del tablón del artículo, el admob, una vez no puede ser cero"
+err_after_item_count_admob_once,"Por favor, proporcione después de la cuenta del recuento de artículos una vez"
+err_profile_image_size_zero,El tamaño de la imagen del perfil no puede ser cero
+err_profile_image_size,"Por favor, proporcione el tamaño de la imagen del perfil"
+err_upload_image_size_zero,Subir el tamaño de la imagen no puede ser cero
+err_upload_image_size,"Por favor, proporcione el tamaño de la imagen de carga"
+err_blue_mark_size_zero,El tamaño de Bluemark no puede ser cero
+err_blue_mark_size,Por favor proporcione el tamaño de Bluemark
+err_video_duration_zero,La duración del video no puede ser cero.
+err_video_duration,Por favor proporcione la duración del video
+err_mile_zero,Milla no puede ser cero
+err_mile,Por favor proporcione milla
+err_chat_image_size_zero,El tamaño de la imagen de chat no puede ser cero
+err_chat_image_size,"Por favor, proporcione el tamaño de la imagen de chat"
+ad_post_type,Tipo de publicación.
+err_ad_post_type,"Por favor, proporcione Tipo de Post."
+select_ad_post_type,Seleccione AD POST TIPO
+err_promo_cell_blank_save,"Por favor, proporcione el intervalo celular promovido no."
+err_promo_cell_zero_save,El intervalo celular promovido no. no puede ser cero
+promo_cell_interval_no,Intervalo celular promovido No.
+ad_post_section,Ajuste del tipo publicitario.
+paid_items,Artículos patrocinados
+promo_cell_interval_desc,(Los anuncios patrocinados o los anuncios de Google van a mostrar en cada x no de la lista).
+offline_pkg_bought_edit,Editar paquete sin conexión comprado
+offline_pkg_bought_search,Buscar paquete sin conexión comprado
+delete_offline_pkg_label,¿Eliminar paquete de anuncios sin conexión comprado?
+offline_pkg_delete_message_label,¿Está seguro de eliminar el paquete de anuncios sin conexión que compró?
+offline_pkg_bought_info,Información del paquete comprado sin conexión
+bought_user,Usuario comprado
+currency_label,Divisa
+success_offline_pkg_delete,El paquete de anuncios sin conexión comprado se ha eliminado correctamente.
+success_offline_pkg_edit,El paquete de anuncios sin conexión comprado se ha actualizado correctamente.
+success_offline_pkg_add,El paquete de anuncios sin conexión comprado se ha agregado correctamente.
+offline_paids,Solicitud de artículos patrocinados sin conexión
+offline_ad_package_bought_request,Solicitud de compra de paquete de anuncios sin conexión
+err_image_limit,Proporcione el límite de imágenes.
+err_image_limit_zero_save,El límite de imágenes no puede ser cero.
+err_block_slider_loading_limit,Proporcione el límite de carga del control deslizante de bloque.
+err_item_detail_view_count_for_ads,Proporcione el número de detalles del artículo para los anuncios.
+err_item_detail_view_count_for_ads_zero,El recuento de detalles de elementos para los anuncios no puede ser cero.
+err_promote_fourth_choice_day,Proporcione promover el cuarto día de elección.
+err_promote_fourth_choice_day_zero,El día de promoción de la cuarta opción no puede ser cero.
+err_promote_first_choice_day,Proporcione la promoción del primer día de elección.
+err_promote_first_choice_day_zero,El día de promoción de la primera opción no puede ser cero.
+err_promote_second_choice_day,Proporcione promover el segundo día de elección.
+err_promote_second_choice_day_zero,El día de promoción de la segunda opción no puede ser cero.
+err_promote_third_choice_day,Proporcione promover el tercer día de elección.
+err_promote_third_choice_day_zero,El día de promoción de la tercera opción no puede ser cero.
+success_image_reorder,La imagen se ha reordenado correctamente.
+unauthorize_reorder_img_edit,No tienes permiso para reordenar esta imagen porque no eres propietario.
+no_transaction_yet,No puede exportar el archivo CSV porque no hay transacción.
+err_key,Por favor complete la clave.
+err_key_len,La longitud de la clave debe ser superior a 4.
+org_img_size,Tamaño de imagen original
+processing_label,Procesando
+err_photo,Archivo Subir foto
+posted_by_loading_limit,Publicado por Límite de carga
+amenities_loading_limit,Límite de carga de servicios
+agent_loading_limit,Límite de carga de agentes
+err_posted_by_loading_limit_zero,El límite publicado por carga no puede ser cero.
+err_posted_by_loading_limit,Proporcione publicado por límite de carga.
+err_agent_loading_limit_zero,El límite de carga del agente no puede ser cero.
+err_agent_loading_limit,Proporcione el límite de carga del agente.
+err_amenities_loading_limit_zero,El límite de carga de servicios no puede ser cero.
+err_amenities_loading_limit,Proporcione el límite de carga de servicios.
+package_app_purchase_product_id_label,Paquete en compras de aplicaciones ID de producto
+package_purchase_type_label,Paquete en el tipo de compras de la aplicación
+is_force_login,"¿Está activado el inicio de sesión forzado? (Si esta configuración está ""activada"", cuando se inicia la aplicación, el usuario debe iniciar sesión primero)."
+is_language_config,"¿Está activada la configuración de idioma? (Si esta configuración está ""activada"", cuando se inicia la aplicación, el usuario debe seleccionar el idioma)."
+sold_out_items,Artículos agotados
+sold_out_items_module,Artículos agotados
+sold_out_item_view,Ver artículos vendidos
+price_pkg_desc,(El campo de precio solo se usa para otros pagos que no sean IAP (en la aplicación comprada).)
+currency_pkg_desc,(El campo de moneda solo se usa para otros pagos que no sean IAP (en la aplicación comprada).)
+languages,Idiomas
+dashboard_label,Tablero
+item_location_cities,Elemento Ubicación Ciudades
+item location cities,Elemento Ubicación Ciudades
+item_location_townships,Artículo Ubicación Municipios
+item location townships,Artículo Ubicación Municipios
+packages,Paquetes
+posted by,Publicado por
+property by,Propiedad por
+items,Elementos
+posted_by,Publicado por
+property_by,Propiedad por
+item price types,Tipos de precios de artículos
+item_price_types,Tipos de precios de artículos
+paid items,Informe de propiedad patrocinada
+blogs,blogs
+pendings,Pendientes
+rejects,Rechazos
+disables,Desactiva
+agents,Aplicar listas de agentes
+offline paids,Solicitud de artículos patrocinados sin conexión
+offline_paids,Solicitud de artículos patrocinados sin conexión
+most popular items,Artículos más populares
+most_popular_items,Artículos más populares
+view,Vista
+ratings,Calificaciones
+contacts,Contactos
+item_report,Informe de artículo
+item report,Informe de artículo
+transactions,Actas
+date,Fecha
+users,Usuarios
+notis,No es
+deeplink generators,Generadores de enlaces profundos
+api_keys,Claves API
+api keys,Claves API
+appsettings,Ajustes de Aplicacion
+versions,Versiones
+abouts,Acerca de
+item_upload_configs,Configuración de carga de artículos
+privacy policies,Políticas de privacidad
+privacy_policies,Políticas de privacidad
+data_deletion_policies,Políticas de eliminación de datos
+data deletion policies,Políticas de eliminación de datos
+topic_label,Tema
+backend_config,Configuración de back-end
+backend config,Configuración de back-end
+paid configs,Configuración de pago
+offline payments,Configuración de pagos fuera de línea
+offline_payments,Configuración de pagos fuera de línea
+in app purchase,Aplicación en la compra
+in_app_purchase,Aplicación en la compra
+module_groups,Configuración del nombre del menú
+module groups,Configuración del nombre del menú
+modules,Configuración del nombre del submenú
